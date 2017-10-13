@@ -1,0 +1,46 @@
+# ----------------------------------------------------------------------------
+# Customize Options:
+title: Saya's Blog
+permalink: :title
+baseurl: "/"
+lang: "ja"
+author: "Saya"
+date_format: "%Y/%-m/%-d"
+twitter_account: "sayajewels"
+url: "http://blog.sayajewels.com"
+# See: https://material.io/guidelines/style/color.html
+# Use color-name-value, like pink-200 or deep-purple-400
+brand_color: "pink-100"
+# "UA-NNNNNNNN-N"
+google_analytics: "UA-108029397-1"
+logo: "/images/saya.jpg"
+# ----------------------------------------------------------------------------
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - mix-manifest.json
+  - webpack.mix.js
+  - yarn.lock
+  - package.json
+  - hot
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
