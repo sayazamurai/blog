@@ -4,9 +4,12 @@ title: Saya's Blog
 permalink: :title
 baseurl: "/"
 lang: "ja"
-author: "Saya"
 date_format: "%Y/%-m/%-d"
-twitter_account: "sayajewels"
+# Twitter IDs
+twitter:
+  username: "sayajewels"
+author:
+  twitter: "sayajewels"
 url: "http://blog.sayajewels.com"
 # See: https://material.io/guidelines/style/color.html
 # Use color-name-value, like pink-200 or deep-purple-400
@@ -38,9 +41,11 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      image: "/images/saya.jpg"
   -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "default"
+      image: "/images/saya.jpg"
