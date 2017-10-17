@@ -19,7 +19,7 @@ image: /images/janiota-python-practice/main.jpg
 
 ## 練習問題その1: セクシーな平均年齢をセクシーに求める
 
-いきなりセクシーな平均年齢を求めるのはハードルが高いので、まずはウォーミングアップとしてYou are my SOUL！SOUL！いつもすぐそばにある、今をときめくジャニーズの財務基盤、嵐先生の平均年齢を求めてみましょう。
+いきなりセクシーな平均年齢を求めるのはハードルが高いので、まずはウォーミングアップとしてYou are my SOUL！SOUL！いつもすぐそばにある！今をときめくジャニーズの財務基盤、嵐先生の平均年齢を求めてみましょう。
 
 step by step ブッ飛ぶよりも裸のまま突っ込めの精神です。
 
@@ -63,12 +63,22 @@ step by step ブッ飛ぶよりも裸のまま突っ込めの精神です。
 
 ```python
 def sexy_average(members):
+    ???
 ```
 
 `sexy_average`の後の`()`
-の中には、後から平均年齢を求めたい対象のメンバーを置き換えられる変数を入れておきます。
+の中には、後から平均年齢を求めたい対象メンバーのデータを置き換えられる変数を入れておきます。
 
-はじめに嵐の平均年齢を、その後にメンバーを追加してセクシーな平均年齢を求める処理を実行したい、つまりメンバーを置き換えて関数を実行したいので、変数には`members`というニックネームをつけました。
+はじめに嵐の平均年齢を、その後にメンバーを追加してセクシーな平均年齢を求める処理を実行したい、つまり対象メンバーを置き換えて関数を実行したいので、この変数には`members`というニックネームをつけました。
+
+最後に、この関数を実行した時に、`members`に対象のメンバーのデータを置き換えて、関数で得られた結果を`print`できるようにしておきます。
+
+```python
+def sexy_average(members):
+    ???
+
+print(sexy_average(対象メンバーのデータ))
+```
 
 #### Step2: メンバーの年齢の合計値を計算する
 
@@ -76,17 +86,31 @@ def sexy_average(members):
 
 平均年齢を出すには、まずは
 
-1. 全員のメンバーの年齢を合計する
+1. 全員のメンバーの年齢を合計
 
-必要があります。
+して合計値を得る必要があります。
 
-今はまだ合計値がわからないので、合計値を`sum_member_age`というニックネームの変数としておきます。
+関数`sexy_average`で最終的に得たい合計値を`sum_member_age`というニックネームの変数としておきます。
 
-変数`members`には、後から上で作った嵐のデータのリストを置き換えます。
+```python
+def sexy_average(members):
+    
+    (1)???
+    
+    sum_member_age = (2)???
+
+    (3)???
+
+print(sexy_average(対象メンバーのデータ))
+```
+
+`(対象メンバーのデータ)`には、後から上で作った嵐のデータのリストを置き換えます。
 つまり
 
 ```python
-members = [("翔くん", "櫻井翔", 35),
+members = 
+対象メンバーのデータ =
+[("翔くん", "櫻井翔", 35),
 ("相葉ちゃん", "相葉雅紀", 34),
 ("にの", "二宮和也", 34),
 ("大ちゃん", "大野智", 36),
@@ -94,6 +118,8 @@ members = [("翔くん", "櫻井翔", 35),
 ```
 
 です。
+
+では`sum_member_age`を得られるまでの`(1)???`、`(2)???`には何を入れればよいか考えていきます。
 
 ここで最終的に得たい`sum_member_age`は嵐の全員のメンバーの年齢の合計値です。
 
@@ -109,13 +135,13 @@ sum_member_age = members[0][2] + members[1][2] + members[2][2] + members[3][2] +
 
 上の式で処理されているのがどんな内容かを考えてみることにします。上の式をよく見ると
 
-1. リスト`members`の`[0]`に入っている`[2]`の要素を足す
-2. さらにリスト`members`の`[1]`に入っている`[2]`の要素を足す
-3. さらにリスト`members`の`[2]`に入っている`[2]`の要素を足す
+* リスト`members`の最初の要素`("翔くん", "櫻井翔", 35)`に入っている`[2]`の要素を足す
+* さらにリスト`members`の2番目の要素`("相葉ちゃん", "相葉雅紀", 34)`に入っている`[2]`の要素を足す
+* さらにリスト`members`の3番目の要素`("にの", "二宮和也", 34)`に入っている`[2]`の要素を足す
 .
 .
 
-というように、「リスト`members`に入っている要素を順にとってきて、`[2]`の要素を足す」という処理が繰り返されています。
+というように、「リスト`members`に入っている要素を順にとってきて、`[2]`の要素を足す」という処理が繰り返し行われています。繰り返し処理を使うのがセクシーそうです！
 
 `for`を使って
 
@@ -123,64 +149,85 @@ sum_member_age = members[0][2] + members[1][2] + members[2][2] + members[3][2] +
 2. その中の`[2]`の要素を足し
 3. 足し算で得られた結果を`sum_member_age`に置き換える
 
-という繰り返し処理を行うのがよさそうです。
+という処理を繰り返し行う処理を作ってみることにします。
 
-「まずはリスト`members`の要素を順にとってきて変数`member`に繰り返し渡す」ループを作ります。
+まずは「1. リスト`members`の要素を順にとってきて」の部分を考えます。後にとってきた要素をつかって2. 、3. 、の処理を行いたいので、変数を作って`members`からとってきた要素をこの変数に一旦入れておきます。
 
-```python
-def sexy_average(members):
-    for member in members:
-```
-
-次に「(`member`の中の)`[2]`の要素を足し」の部分を考えます。
-足し算をするには「足されるもの」が必要ですが、「足されるもの」は、前の足し算で得られた`sum_member_age`なので
+変数にはメンバーのデータが順に渡されていくので`next_member`というニックネームをつけました。
 
 ```python
 def sexy_average(members):
-    for member in members:
-　　 sum_member_age + member[2]
+    for next_member in members:
+　　 
+    sum_member_age = (2)???
+
+    (3)???
+
+print(sexy_average(対象メンバーのデータ))
 ```
 
-となります。
+次に「2. (とってきた要素の中の)`[2]`の要素を足し」、「3. 足し算で得られた結果を`sum_member_age`に置き換える」の部分を考えます。
 
-次に「足し算で得られた結果を`sum_member_age`に置き換える」の部分を考えます。
+足し算をするには「足されるもの」が必要ですが、「足されるもの」は、その前のメンバーの足し算で得られた結果`sum_member_age`なので、この部分は
 
-「足し算で得られた結果」は上で作った「`sum_member_age + member[2]`」の式で表されるので、これを`sum_member_age`に置き換えます。
+```python
+sum_member_age + next_member[2]
+```
+
+の数式で計算できます。
+
+この数式で得られた計算結果を`sum_member_age`に置き換えます。
+
+```python
+sum_member_age = sum_member_age + next_member[2]
+```
+
+これで2. 、3. の処理を行う数式ができました！この数式を、1. で作った`for`の中に入れ、最後のメンバーまで処理を繰り返し実行すると、最終的な`sum_member_age`を得ることができるはずです。
 
 ```python
 def sexy_average(members):
-    for member in members:
-　　 sum_member_age = sum_member_age + member[2]
+    for next_member in members:
+        sum_member_age = sum_member_age + next_member[2]
+　　　　　
+　　 (3)???
+
+print(sexy_average(対象メンバーのデータ))
 ```
 
-ループが完成しました！
+ループ処理が完成しました！
 
-これがうまくいくかを試してみます。
+これがうまくいくかを実験してみます。
+
+まず
 
 ```python
 for members in members:
 ```
 
-によって、最初に変数`member`にリスト`members`の一番目の要素、つまり`("翔くん", "櫻井翔", 35)`が渡されます。
+によって、最初に変数`member`にリスト`members`の最初の要素、つまり`("翔くん", "櫻井翔", 35)`が渡されます。
 
 次に
 
 ```python
-sum_member_age = sum_member_age + member[2]
+sum_member_age = sum_member_age + next_member[2]
 ```
 
-によって足し算が実行されます...が、ここで問題があります。この段階では`sum_member_age`に何も値が定義されていないため、足し算が実行できません！
+によって足し算が実行されます...が、ここでさっそく問題があります。この段階では`sum_member_age`に何も値が定義されていないため、足し算が実行できません！
 
-そこで、ループ処理を行う前に`sum_member_age`に仮の値`0`を定義することにします。
+そこで、ループ処理を行う前に`sum_member_age`に仮の値`0`を定義しておくことにします。
 
 ```python
 def sexy_average(members):
     sum_member_age = 0
     for member in members:
-　　 sum_member_age = sum_member_age + member[2]
+　　 sum_member_age = sum_member_age + next_member[2]
+    
+　　 (3)???
+
+print(sexy_average(対象メンバーのデータ))
 ```
 
-こうすることで、memberに最初の要素`("翔くん", "櫻井翔", 35)`ときは、以下の式が実行されます。
+こうすることで、memberに最初の要素`("翔くん", "櫻井翔", 35)`が渡された時に、無事以下の式が実行されます。
 
 ```python
 sum_member_age = 0 + 35
@@ -193,7 +240,7 @@ sum_member_age = 0 + 35
 sum_member_age = 35
 ```
 
-これで最初のループ処理が完了したので、次に`member`にリスト`members`の2番目の要素`("相葉ちゃん", "相葉雅紀", 34)`が渡されます。
+これで最初のループ処理が完了したので、次のメンバーにうつり、`member`にリスト`members`の2番目の要素`("相葉ちゃん", "相葉雅紀", 34)`が渡されます。
 
 最初のループ処理で`sum_member_age`は35に置き換わっているので、ここで行われる足し算は以下のようになります。
 
@@ -203,6 +250,10 @@ sum_member_age = 35 + 34
 
 さらに`sum_member_age`が`35 + 34`の結果、
 つまり69に置き換わります。
+
+```python
+sum_member_age = 69
+```
 
 この処理をリスト`members`の最後の要素`("潤くん", "松本潤", 34)`まで繰り返すと、最終的に得られる`sum_number_age`は173となります。
 
@@ -214,13 +265,24 @@ sum_member_age = 173
 
 #### Step3: メンバーの年齢の合計値をメンバーの人数で割る
 
-年齢の合計値を得ることができたので
+```python
+def sexy_average(members):
+    sum_member_age = 0
+    for member in members:
+　　 sum_member_age = sum_member_age + next_member[2]
+    
+　　 (3)???
+
+print(sexy_average(対象メンバーのデータ))
+
+ここまでで年齢の合計値を得ることができたので、次に`(3)???`に入る処理、つまり
 
 2. 合計した値をメンバーの数で割る
 
-を考えます。
+を考えていきます。
 
 「メンバーの数」はリスト`members`に入っている要素の個数と同じなので`len(members)`で得ることができます。
+
 つまり実行したい計算式は
 
 ```python
@@ -229,7 +291,17 @@ sum_member_age / len(members)
 
 となります。
 
-この計算式の結果を、`return`を使って最終的に関数`sexy_average`で返すようにします。
+`対象メンバーのデータ`が嵐のメンバーのデータ場合、`len(members)`は5となるので
+
+上の数式では
+
+```python
+173 / 5
+```
+
+がの数式が計算されます。
+
+この数式の計算結果を、`return`を使って最終的に関数`sexy_average`で返すようにします。
 
 ```python
 def sexy_average(members):
@@ -238,22 +310,22 @@ def sexy_average(members):
 　　 sum_member_age = sum_member_age + member[2]
 
 　　 return sum_member_age / len(members)
+
+print(sexy_average(対象メンバーのデータ))
 ```
 
+これで実行したいすべての処理を表現できました！
 
-
-
-
-
-
-
-
-
-
-
-
+`対象メンバーのデータ`に嵐のメンバーのデータのリストを置き換えて
 
 ```python
+def sexy_average(members):
+    sum_member_age = 0
+    for next_member in members:
+        sum_member_age = sum_member_age + next_member[2]
+
+    return sum_member_age / len(members)
+
 print(sexy_average([
     ("翔くん", "櫻井翔", 35),
     ("相葉ちゃん", "相葉雅紀", 34),
@@ -262,4 +334,14 @@ print(sexy_average([
     ("潤くん", "松本潤", 34)
 ]))
 ```
+
+これをpython3.6で実行してみると...
+
+```
+~/Documents/code/learn-python master*
+❯ python3.6 ex32_2/average_age.py
+34.6
+```
+
+嵐のメンバーの平均年齢は34.6歳であることが分かりました！！！やったやったー！！
 
