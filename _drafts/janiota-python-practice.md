@@ -1,21 +1,44 @@
 ---
-title: ジャニヲタがセクシーに学ぶプログラミング入門〜はじめてのpython練習問題５問〜
+title: プログラミング歴ゼロの31歳ジャニヲタ、Pythonを学ぶ。超初心者向けの練習問題を5問紹介。
 image: /images/janiota-python-practice/main.jpg
 ---
 
 ![](/images/janiota-python-practice/main.jpg)
 
-大変唐突ですが齢31歳にしてプログラミングの勉強をはじめました。
+こんにちは！ジャニオタ歴20年、アクセサリーデザイナーのSayaと申します。
 
-ジャニオタ歴20年、まだまだジャニヲタ人生道半ばの私ではありますが、世界平和とセクシー時代の構築に貢献すべく、初心者に役に立つプログラミング練習問題5問を世界一セクシーにシェアしたいと思います。
+[いまから始めてみればいいじゃない！Let’s get on！Let’s get on yea！](http://j-lyric.net/artist/a000eac/l00091a.html)ということで、このたび齢31歳にして、プログラミングの勉強を知識ゼロからはじめてみました。
 
-読んでくださる皆さまにとって、わずかながらでもプログラミングとセクシー時代の概念の基礎を理解する助けになりますように。
-今から始めてみればいいじゃない！Let's get on！Let's get on yea！
+今回は世界平和とジャニオタの社会的地位向上に貢献すべく、私がプログラミングを学ぶ中で得た知見を、ジャニオタらしく(？)セクシーにシェアしたいと思います。
 
-## セクシー基礎知識
+## プログラミング歴ゼロの31歳ジャニヲタ、Pythonを学ぶ
 
-(必要な基礎知識とPythonを使う旨を書く。
-関数、変数、リスト、タプル)
+最初にどのプログラミング言語を学べば良いのか迷ったので、とりあえず人気投票をチェック(ジャニオタあるある)。するとPythonという言語が晴れて今年、[プログラミング言語人気ランキング一位を獲得した](https://japan.zdnet.com/article/35104653/)ようなので、Pythonを学ぶことに決めました。
+
+次にPythonを日本語で学ぶか英語で学ぶか迷ったのですが、中学生のころアメリカのHANSONというバンドにハマり、アメリカのファンの方たちとチャットをした経験から、私は英語には抵抗がないので、どうせならと英語で学ぶことに決めました。
+
+プログラマーの友人に英語圏で最も人気のPython教材は何か聞いたところ、「[Learn Python 3 the Hard Way](https://www.amazon.co.jp/Learn-Python-Hard-Way-Introduction-ebook/dp/B07378P8W6)」という入門書が[1200万人](https://learnpythonthehardway.org/book/ex9.html)と、嵐の年間コンサート動員数並みの人数に読まれたらしく、これを使って学ぶことに。
+
+<a href="https://www.amazon.co.jp/Learn-Python-Hard-Way-Introduction-ebook/dp/B07378P8W6/ref=as_li_ss_il?_encoding=UTF8&qid=1508243978&sr=8-3&linkCode=li3&tag=sayajewels-22&linkId=db4bd07c88f288abedebede7db0fe014" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07378P8W6&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=sayajewels-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=sayajewels-22&l=li3&o=9&a=B07378P8W6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## 超初心者向けの練習問題を5問紹介
+
+入門書を3分の2くらい読み進めたのはいいものの、本当にスキルが身についているか不安だったので、プログラマーの友人に練習問題をいくつか出してもらいました。苦戦の末に全問解いたあと、友人から「問題と解き方をブログに書いてみるといいよ」と薦められたので、ここで書いてみることにします。
+
+練習問題は5問。全問ジャニーズにちなんだ問題です。想定読者は以下の条件に当てはまる方々です。
+
+- プログラミング歴1週間から1ヶ月以内の超初心者
+- 文字列、数値や四則演算、変数、条件分岐、繰り返し、配列(Pythonだとリストやタプル)の使い方を知っている
+
+実行環境はPython 3.6ですが、Python以外の言語を学んでいる方々にも役立てばいいなと思います。
+
+## 練習問題の目次
+
+1. メンバーの平均年齢を求める
+2. 最年長のメンバーが誰か調べる
+3. 2番目に最年長のメンバーが誰か調べる
+4. あるメンバーの次に年上のメンバーが誰か調べる
+5. 数年後のメンバーの年齢を正しく求める
 
 ## 練習問題その1: セクシーな平均年齢をセクシーに求める
 
@@ -59,7 +82,7 @@ step by step ブッ飛ぶよりも裸のまま突っ込めの精神です。
 
 関数の中身を考える前に、なにはともあれ、これから実行したい関数に`def`を使ってニックネームをつけてあげましょう。
 
-ここでは最終的にセクシーな平均年齢を求めたいので、`sexy_average`というニックネームをつけることにします。 
+ここでは最終的にセクシーな平均年齢を求めたいので、`sexy_average`というニックネームをつけることにします。
 
 ```python
 def sexy_average(members):
@@ -94,9 +117,9 @@ print(sexy_average(対象メンバーのデータ))
 
 ```python
 def sexy_average(members):
-    
+
     (1)???
-    
+
     sum_member_age = (2)???
 
     (3)???
@@ -108,7 +131,7 @@ print(sexy_average(対象メンバーのデータ))
 つまり
 
 ```python
-members = 
+members =
 対象メンバーのデータ =
 [("翔くん", "櫻井翔", 35),
 ("相葉ちゃん", "相葉雅紀", 34),
@@ -158,7 +181,7 @@ sum_member_age = members[0][2] + members[1][2] + members[2][2] + members[3][2] +
 ```python
 def sexy_average(members):
     for next_member in members:
-　　 
+　　
     sum_member_age = (2)???
 
     (3)???
@@ -212,7 +235,7 @@ for members in members:
 sum_member_age = sum_member_age + next_member[2]
 ```
 
-によって足し算が実行されます...が、ここでさっそく問題があります。この段階では`sum_member_age`に何も値が定義されていないため、足し算が実行できません！
+によって足し算が実行されます...が、ここでさっそく問題があります。この段階では`sum_member_age`に何も値が定義されていないため、最初の足し算が実行できません！
 
 そこで、ループ処理を行う前に`sum_member_age`に仮の値`0`を定義しておくことにします。
 
@@ -221,7 +244,7 @@ def sexy_average(members):
     sum_member_age = 0
     for member in members:
 　　 sum_member_age = sum_member_age + next_member[2]
-    
+
 　　 (3)???
 
 print(sexy_average(対象メンバーのデータ))
@@ -270,7 +293,7 @@ def sexy_average(members):
     sum_member_age = 0
     for member in members:
 　　 sum_member_age = sum_member_age + next_member[2]
-    
+
 　　 (3)???
 
 print(sexy_average(対象メンバーのデータ))
