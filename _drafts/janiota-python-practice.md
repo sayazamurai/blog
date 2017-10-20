@@ -227,7 +227,7 @@ print(oldest_member([
 
 ここでも`for`ループが使えそうです。
 
-年齡を比較できるように、暫定の最年長のメンバーの年齡を`oldest_age`という変数に保存することにします。これは初期値として0を代入しておくことにします。
+年齡を比較できるように、暫定の最年長のメンバーの年齡を`oldest_age`という変数に保存することにします。これには初期値として0を代入しておきます。
 
 ```python
 def oldest_member(members):
@@ -235,7 +235,7 @@ def oldest_member(members):
     oldest_age = 0 # 初期値
 
     for next_member in members:
-        # oldest_ageを更新していく
+        # `oldest_age`を更新していく
 ```
 
 ### Step2: 最年長のメンバーの年齡を更新する
@@ -283,7 +283,7 @@ def oldest_member(members):
             # `[0]`に入っているニックネームに更新
             oldest_member_nickname = next_member[0]
 
-    # 最終的な最年長メンバーのニックネームを返す
+    # 最終的な最年長のメンバーのニックネームを返す
     return oldest_member_nickname
 ```
 
@@ -306,6 +306,242 @@ print(oldest_member([
 大ちゃん
 ```
 
-「嵐の最年長メンバーがリーダー大ちゃんである」というジャニヲタ的常識を、プログラミングを使って導き出すことができました😌💙
+「嵐の最年長メンバーがリーダー大ちゃんである」というジャニヲタ的常識を、プログラミングを使って導き出すことができました😏💙
+
+<a name="3"></a>
+
+## 練習問題その3: 2番目に最年長のメンバーが誰か調べる
+
+次は少しディープな世界に入ります。同じリストを使って、2番目に最年長のメンバーが誰かを出力するプログラムを書いてみてください。
+
+実装するのは下の`second_oldest_member`関数です。嵐のメンバーの場合、大野くんの次に最年長のメンバーはしっかり者な「嵐の次男」的存在、35
+歳の櫻井くんなので、"翔くん"と出力されればOKです。
+
+```python
+def second_oldest_member(members):
+    # ???
+
+# "翔くん"と出力されればOK
+print(oldest_member([
+    ("翔くん", "櫻井翔", 35),
+    ("相葉ちゃん", "相葉雅紀", 34),
+    ("にの", "二宮和也", 34),
+    ("大ちゃん", "大野智", 36),
+    ("潤くん", "松本潤", 34)
+]))
+```
+
+### step1: 最年長/2番目に最年長のメンバーを保存する
+
+ここでも練習問題その2と同じように`for`ループを使ってリストを一番目から順に調べていく必要がありますが、「今まで調べた中で最年長のメンバーは誰か」に加えて、「今まで調べた中で2番目に最年長のメンバーは誰か」をその都度更新する必要があります。最後まで調べたときに2番目に最年長だったメンバーが答えというわけです。
+
+暫定の最年長のメンバーの年齡`oldest_age`に加えて、暫定の2番目に最年長のメンバーの年齢を`second_oldest_age`という変数に保存し、それぞれに初期値として`0`を代入しておくことにします。
+
+また同様に、暫定の最年長メンバーのニックネーム`oldest_member_nickname`に加えて、2番目に最年長のメンバーのニックネームを`second_oldest_member_nickname`という変数に保存し、それぞれに初期値として空の文字列を定義しておきます。
+
+また、`return`を使って、すべてのメンバーの比較が完了した時点での`second_oldest_member_nickname`を関数の最後で返すようにします。
+
+```python
+def second_oldest_member(members):
+    # 暫定の最年長のメンバーの年齡
+    oldest_age = 0 # 初期値
+    # 暫定の2番目に最年長のメンバーの年齡
+    second_oldest_age = 0 # 初期値
+
+    # 暫定の最年長のメンバーのニックネーム
+    oldest_member_nickname = "" # 初期値
+    # 暫定の2番目に最年長のメンバーのニックネーム
+    second_oldest_member_nickname = "" # 初期値
+
+    for next_member in members:
+        # `oldest_age`/`second_oldest_age`
+        # `oldest_member_nickname`/`second_oldest_member_nickname`
+        # を更新していく
+
+    # 最終的な2番目に最年長のメンバーのニックネームを返す
+    return second_oldest_member_nickname
+```
+
+### Step2: 最年長/2番目に最年長のメンバーの年齡を更新する
+
+次に、`for`ループの中の、`oldest_age`、`second_oldest_age`を更新していく処理を考えます。
+
+ここでは練習問題その2で行った「リストからとってきた年齡を`oldest_age`と比較し、更新する」という振り付けに加えて、さらに「リストからとってきた年齡を`second_oldest_age`と比較し、更新する」という振り付けを追加する必要があります。
+
+step by step~~ぶっ飛ぶよりも裸のまま〜(以下省略)~~で考えていきます。
+
+#### Step2-1: メンバーの年齡が、最年長のメンバーより大きい場合
+
+まず
+
+- リスト`members`に入っている要素を順にとってきて、それぞれの`[2]`に入っている年齢を、その時点での`oldest_age`と比較する
+- 比較した結果`[2]`に入っている年齡の方が`oldest_age`より大きければ、`oldest_age`を`[2]`に入っている年齡に更新する
+
+ここまでは練習問題その2と全く同じですが、この時点で、それまで`oldest_age`に入っていた年齡は2番目に最年長の年齡ということになるので、さらに
+
+- `second_oldest_age`を**それまでの**`oldest_age`に更新する
+
+という処理を追加します。
+
+```python
+def second_oldest_member(members):
+    oldest_age = 0
+    second_oldest_age = 0
+
+    oldest_member_nickname = ""
+    second_oldest_member_nickname = ""
+
+    for next_member in members:
+        # `[2]`に入っている年齢を`oldest_age`と比較する
+        if oldest_age < next_member[2]:
+            # `[2]`に入っている年齡の方が`oldest_age`より大きければ、
+            # 1. `oldest_age`を更新
+            oldest_age = next_member[2]
+            # 2. `second_oldest_age`を更新
+            second_oldest_age = oldest_age
+
+    return second_oldest_member_nickname
+```
+
+しかしここで少し考えてみましょう🤔
+
+「# 1. 」のステップで `oldest_age`を更新すると、`oldest_age`が**それまでの**`oldest_age`から`[2]`の年齡に置き換わります。この状態で「#2. 」のステップを踏むと、`second_oldest_age`は**更新された後の**`oldest_age`、つまり`[2]`の年齡にじゃまされ、**それまでの**`oldest_age`に置き換えることができなくなってしまいます。まさに[ゆずれないよ誰もじゃまできない](http://j-lyric.net/artist/a000eac/l00091a.html)状態です。
+
+そこで処理の順序を入れ替え、先に`second_oldest_age = oldest_age`を更新してから、`oldest_age`を更新することにします。
+
+```python
+def second_oldest_member(members):
+    oldest_age = 0
+    second_oldest_age = 0
+
+    oldest_member_nickname = ""
+    second_oldest_member_nickname = ""
+
+    for next_member in members:
+        # `[2]`に入っている年齢を`oldest_age`と比較する
+        if oldest_age < next_member[2]:
+            # `[2]`に入っている年齡の方が`oldest_age`
+            # より大きければ、
+            # 1. `second_oldest_age`を更新
+            second_oldest_age = oldest_age
+            # 2. `oldest_age`を更新
+            oldest_age = next_member[2]
+
+    return second_oldest_member_nickname
+```
+
+これで問題なく2つの変数を更新することができるようになりました！
+
+#### Step2-2: メンバーの年齡が、最年長のメンバーと同じかそれより小さい場合
+
+では、「比較した結果`[2]`に入っている年齡が`oldest_age`と同じか、`oldest_age`より小さい場合」を考えてみます。
+
+この場合、`oldest_age`を更新する必要はありません。
+
+`second_oldest_age`はどうでしょうか。ここで`[2]`の年齡と`second_oldest_age`の比較が必要になります。
+
+つまり、
+
+- それぞれの`[2]`に入っている年齢を、その時点での`second_oldest_age`と比較する
+- 比較した結果`[2]`に入っている年齡の方が`second_oldest_age`より大きければ、`second_oldest_age`を`[2]`に入っている年齡に更新する
+
+という処理を追加します。
+
+```python
+def second_oldest_member(members):
+    oldest_age = 0
+    second_oldest_age = 0
+
+    oldest_member_nickname = ""
+    second_oldest_member_nickname = ""
+
+    for next_member in members:
+        if next_member[2] > oldest_age:
+            second_oldest_age = oldest_age
+            oldest_age = next_member[2]
+
+        # `[2]`に入っている年齢が
+        # `oldest_age`と同じかそれより小さい場合
+        # `[2]`に入っている年齢を
+        # `second_oldest_age`と比較する
+        elif next_member[2] <= oldest_age and next_member[2] > second_oldest_age:
+            # `[2]`に入っている年齡の方が`second_oldest_age`より大きければ、
+            # `second_oldest_age`を更新
+            second_oldest_age = next_member[2]
+
+    return second_oldest_member_nickname
+```
+
+ここまでの処理で、2番目に最年長のメンバーの年齡が分かりました！
+
+# Step3: 最年長/2番目に最年長のメンバーのニックネームを更新する
+
+最終的に得たい答えは2番目に最年長のメンバーのニックネームなので、練習問題その2と同様、`oldest_age`、`second_oldest_age`を更新した時に、`oldest_member_nickname`、`second_oldest_member_nickname`を同時に更新することにします。
+
+ここでも年齡と同様、更新の順序に注意です！
+
+```python
+def second_oldest_member(members):
+    oldest_age = 0
+    second_oldest_age = 0
+
+    oldest_member_nickname = ""
+    second_oldest_member_nickname = ""
+
+    for next_member in members:
+        if next_member[2] > oldest_age:
+            second_oldest_age = oldest_age
+            oldest_age = next_member[2]
+            # `second_oldest_age`が更新された時に、
+            # `second_oldest_member_nickname`を
+            # それまでの最年長のメンバーのニックネームに更新
+            second_oldest_member_nickname = oldest_member_nickname
+            # `oldest_age`が更新された時に、
+            # `oldest_member_nickname`を
+            # `[0]`に入っているニックネームに更新
+            oldest_member_nickname = next_member[0]
+
+        elif next_member[2] <= oldest_age and next_member[2] > second_oldest_age:
+            second_oldest_age = next_member[2]
+            # `second_oldest_age`が更新された時に、
+            # `second_oldest_member_nickname`を
+            # `[0]`に入っているニックネームに更新
+            second_oldest_member_nickname = next_member[0]
+
+    return second_oldest_member_nickname
+```
+
+完成です💕💕
+
+```python
+print(oldest_member([
+    ("翔くん", "櫻井翔", 35),
+    ("相葉ちゃん", "相葉雅紀", 34),
+    ("にの", "二宮和也", 34),
+    ("大ちゃん", "大野智", 36),
+    ("潤くん", "松本潤", 34)
+]))
+```
+
+嵐のデータを使い、Pythonで実行してみると…
+
+```
+❯ python3.6 second_oldest_member.py
+翔くん
+```
+
+リーダーの長男・大野くんを、しっかり者の次男・櫻井くんが支えていることが、プログラミングでも証明されました😉💙❤️
+
+大野くんと櫻井くんの年長コンビは、漢字の「嵐」の上の部分をとって「山コンビ」と呼ぶという大切なことを最後に付け加えておきます（ジャニヲタ豆知識）。
+
+<a name="4"></a>
+
+## 練習問題その4: あるメンバーの次に年上のメンバーが誰か調べる
+
+<a name="5"></a>
+
+## 練習問題その5: 数年後のメンバーの年齢を正しく求める
+
+
 
 
