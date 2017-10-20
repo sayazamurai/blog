@@ -331,9 +331,9 @@ print(oldest_member([
 ]))
 ```
 
-### step1: 最年長/2番目に最年長のメンバーを保存する
+### step1: 暫定の最年長/2番目に最年長のメンバーを保存する
 
-ここでも練習問題その2と同じように`for`ループを使ってリストを一番目から順に調べていく必要がありますが、「今まで調べた中で最年長のメンバーは誰か」に加えて、「今まで調べた中で2番目に最年長のメンバーは誰か」をその都度更新する必要があります。最後まで調べたときに2番目に最年長だったメンバーが答えというわけです。
+ここでも練習問題その2と同じように`for`ループを使ってリストを一番目から順に調べていく必要がありますが、「今まで調べた中で最年長のメンバーは誰か」に加えて、**「今まで調べた中で2番目に最年長のメンバーは誰か」**をその都度更新する必要があります。最後まで調べたときに2番目に最年長だったメンバーが答えというわけです。
 
 暫定の最年長のメンバーの年齡`oldest_age`に加えて、暫定の2番目に最年長のメンバーの年齢を`second_oldest_age`という変数に保存し、それぞれに初期値として`0`を代入しておくことにします。
 
@@ -372,8 +372,6 @@ step by step~~ぶっ飛ぶよりも裸のまま〜(以下省略)~~で考えて�
 
 #### Step2-1: メンバーの年齡が、最年長のメンバーより大きい場合
 
-まず
-
 - リスト`members`に入っている要素を順にとってきて、それぞれの`[2]`に入っている年齢を、その時点での`oldest_age`と比較する
 - 比較した結果`[2]`に入っている年齡の方が`oldest_age`より大きければ、`oldest_age`を`[2]`に入っている年齡に更新する
 
@@ -407,7 +405,7 @@ def second_oldest_member(members):
 
 「# 1. 」のステップで `oldest_age`を更新すると、`oldest_age`が**それまでの**`oldest_age`から`[2]`の年齡に置き換わります。この状態で「#2. 」のステップを踏むと、`second_oldest_age`は**更新された後の**`oldest_age`、つまり`[2]`の年齡にじゃまされ、**それまでの**`oldest_age`に置き換えることができなくなってしまいます。まさに[ゆずれないよ誰もじゃまできない](http://j-lyric.net/artist/a000eac/l00091a.html)状態です。
 
-そこで処理の順序を入れ替え、先に`second_oldest_age = oldest_age`を更新してから、`oldest_age`を更新することにします。
+そこで処理の順序を入れ替え、先に`second_oldest_age`を更新してから、`oldest_age`を更新することにします。
 
 ```python
 def second_oldest_member(members):
@@ -464,7 +462,8 @@ def second_oldest_member(members):
         # `oldest_age`と同じかそれより小さい場合
         # `[2]`に入っている年齢を
         # `second_oldest_age`と比較する
-        elif next_member[2] <= oldest_age and next_member[2] > second_oldest_age:
+        elif next_member[2] <= oldest_age and \
+        next_member[2] > second_oldest_age:
             # `[2]`に入っている年齡の方が`second_oldest_age`より大きければ、
             # `second_oldest_age`を更新
             second_oldest_age = next_member[2]
@@ -472,9 +471,9 @@ def second_oldest_member(members):
     return second_oldest_member_nickname
 ```
 
-ここまでの処理で、2番目に最年長のメンバーの年齡が分かりました！
+これで、2番目に最年長のメンバーの年齡が分かりました！
 
-# Step3: 最年長/2番目に最年長のメンバーのニックネームを更新する
+### Step3: 最年長/2番目に最年長のメンバーのニックネームを更新する
 
 最終的に得たい答えは2番目に最年長のメンバーのニックネームなので、練習問題その2と同様、`oldest_age`、`second_oldest_age`を更新した時に、`oldest_member_nickname`、`second_oldest_member_nickname`を同時に更新することにします。
 
