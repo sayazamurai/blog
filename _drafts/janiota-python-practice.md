@@ -644,11 +644,7 @@ print(next_older_member([
 
 ```python
 def next_older_member(members, nickname):
-    compared_age = 0
-
-    for next_member in members:
-        if next_member[0] == nickname:
-            compared_age = next_member[2]
+    # ... (compared_ageを指定、省略)
 
     # 「次に年上のメンバー」の年齡
     next_older_member_age = 0 # 初期値
@@ -687,11 +683,7 @@ def next_older_member(members, nickname):
 
 ```python
 def next_older_member(members, nickname):
-    compared_age = 0
-
-    for next_member in members:
-        if next_member[0] == nickname:
-            compared_age = next_member[2]
+    # ...
 
     next_older_member_age = 0
     next_older_member_nickname = ""
