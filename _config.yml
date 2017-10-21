@@ -1,8 +1,7 @@
 # ----------------------------------------------------------------------------
 # Customize Options:
 title: Saya's Blog
-permalink: :title
-baseurl: "/"
+permalink: posts/:title/
 lang: "ja"
 date_format: "%Y/%-m/%-d"
 # Twitter IDs
