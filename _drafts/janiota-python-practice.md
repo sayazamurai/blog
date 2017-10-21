@@ -737,11 +737,7 @@ print(next_older_member([
 
 ```python
 def next_older_member(members, nickname):
-    compared_age = 0
-
-    for next_member in members:
-        if next_member[0] == nickname:
-            compared_age = next_member[2]
+    # ...
 
     next_older_member_age = 0
     next_older_member_nickname = ""
@@ -755,7 +751,7 @@ def next_older_member(members, nickname):
     return next_older_member_nickname
 ```
 
-少し考えてみましょう🤔[~~大人の~~最初にきめたやり方それが正解なの？](http://j-lyric.net/artist/a055cda/l026e0d.html)
+上記の`for`の中身について、少し考えてみましょう🤔[~~大人の~~最初にきめたやり方それが正解なの？](http://j-lyric.net/artist/a055cda/l026e0d.html)
 
 最初に定義しておいた`next_older_member_age`の初期値`0`はどのメンバーよりも年上ではありません。これでは、2番目の`for`ループの中にある、
 
