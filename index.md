@@ -6,4 +6,4 @@ image: "/images/saya.jpg"
 
 ### Saya
 
-東大卒アクセサリーデザイナー。[詳しい自己紹介はこちら](/about-me)。
+東大卒アクセサリーデザイナー。[詳しい自己紹介はこちら](/posts/about-me)。
