@@ -2,7 +2,6 @@
 # Customize Options:
 title: Saya's Blog
 permalink: posts/:title/
-baseurl: "/"
 lang: "ja"
 date_format: "%Y/%-m/%-d"
 # Twitter IDs
