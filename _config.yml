@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------
 # Customize Options:
 title: Saya's Blog
-permalink: :title
+permalink: posts/:title/
 baseurl: "/"
 lang: "ja"
 date_format: "%Y/%-m/%-d"
