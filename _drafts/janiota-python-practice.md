@@ -368,7 +368,7 @@ def second_oldest_member(members):
 
 ここでは練習問題その2で行った「リストからとってきた年齡を`oldest_age`と比較し、更新する」という振り付けに加えて、さらに「リストからとってきた年齡を`second_oldest_age`と比較し、更新する」という振り付けを追加する必要があります。
 
-step by step~~ぶっ飛ぶよりも裸のまま〜(以下省略)~~で考えていきます。
+step by step~~ブッ飛ぶよりも裸のまま〜(以下省略)~~で考えていきます。
 
 #### Step2-1: メンバーの年齡が、最年長のメンバーより大きい場合
 
@@ -403,7 +403,7 @@ def second_oldest_member(members):
 
 しかしここで少し考えてみましょう🤔
 
-「# 1. 」のステップで `oldest_age`を更新すると、`oldest_age`が**それまでの**`oldest_age`から`[2]`の年齡に置き換わります。この状態で「#2. 」のステップを踏むと、`second_oldest_age`は**更新された後の**`oldest_age`、つまり`[2]`の年齡にじゃまされ、**それまでの**`oldest_age`に置き換えることができなくなってしまいます。まさに[ゆずれないよ誰もじゃまできない](http://j-lyric.net/artist/a000eac/l00091a.html)状態です。
+「# 1. 」のステップで `oldest_age`を更新すると、`oldest_age`が**それまでの**`oldest_age`から`[2]`の年齡に置き換わります。この状態で「#2. 」のステップを踏むと、`second_oldest_age`は**更新された後の**`oldest_age`、つまり`[2]`の年齡にはばまれ、**それまでの**`oldest_age`に置き換えることができなくなってしまいます。まさに[ゆずれないよ誰もじゃまできない](http://j-lyric.net/artist/a000eac/l00091a.html)状態です。
 
 そこで処理の順序を入れ替え、先に`second_oldest_age`を更新してから、`oldest_age`を更新することにします。
 
@@ -531,11 +531,216 @@ print(oldest_member([
 
 リーダーの長男・大野くんを、しっかり者の次男・櫻井くんが支えていることが、プログラミングでも証明されました😉💙❤️
 
-大野くんと櫻井くんの年長コンビは、漢字の「嵐」の上の部分をとって「山コンビ」と呼ぶという大切なことを最後に付け加えておきます（ジャニヲタ豆知識）。
+**大野くんと櫻井くんの年長コンビは、漢字の「嵐」の上の部分をとって「山コンビ」と呼ぶ**という大切なことを最後に付け加えておきます（ジャニヲタ豆知識）。
 
 <a name="4"></a>
 
 ## 練習問題その4: あるメンバーの次に年上のメンバーが誰か調べる
+
+次に解くのは「あるメンバーの次に年上のメンバーが誰かを出力するプログラムを書く」という問題です。
+
+嵐の**「山コンビ」**が涙を禁じ得ない多くのエピソードを生み出してきたように、そして櫻井くんとその次に年長の相葉くんの**「櫻葉コンビ」**が笑いを堪えきれない多くの事件を生み出してきたように、グループの~~萌えポイント~~ターニングポイントにはいつも「年の近いメンバー同士のコンビ」の存在があります。
+
+刻々と紡がれるジャニーズヒストリーの中で重要な事件を見逃さないよう、このコンビを各グループごとに把握しておくことはジャニヲタの必須要件です。
+
+嵐についてはすでに多くの事件が記録とともに残されているので、ここでは東京オリンピックの頃にはきっと時代が追いついているであろう、ポテンシャルを秘めまくったジャニーズの次世代グループ「Se<span class="color-red-600">xy</span> Zone」のメンバーを使って、コードとともに未知の世界を解明することにします。
+
+Se<span class="color-red-600">xy</span> Zoneのメンバーのニックネーム・フルネームと2017年10月現在の年齢はこちらです。さあ、未知の世界[「Se<span class="color-red-600">xy</span>世代」](http://j-lyric.net/artist/a055cda/l026e0d.html)への第一歩です🥀
+
+| ニックネーム | フルネーム | 年齢 |
+|------------|------------|:------------:|
+| 総ちゃん | 松島　聡 | 19 |
+| マリ | マリウス 葉 | 17 |
+| ケンティー | 中島　健人 | 23 |
+| 風磨くん | 菊池　風磨 | 22 |
+| 勝利くん | 佐藤　勝利 | 20 |
+
+上の表をPythonで表現してみると、こうなります。
+
+```python
+[
+    ("聡ちゃん", "松島聡", 19),
+    ("マリ", "マリウス葉", 17),
+    ("ケンティー", "中島健人", 23),
+    ("風磨くん", "菊池風磨", 22),
+    ("勝利くん", "佐藤勝利", 20)
+]
+```
+
+実装するのは下の`next_older_member`関数です。対象のメンバー`members`に加え、「あるメンバー」のニックネームを指定できるよう`nickname`という変数を追加します。
+
+たとえば`nickname`に`風磨くん`と指定した場合、22歳の菊池風磨くんの次に年上の"ケンティー"と出力されればOKです。
+
+```python
+# 変数`nickname`を追加
+def next_older_member(members, nickname):
+    # ???
+
+# "風磨くん"と出力されればOK
+print(next_older_member([
+    ("聡ちゃん", "松島聡", 19),
+    ("マリ", "マリウス葉", 17),
+    ("ケンティー", "中島健人", 23),
+    ("風磨くん", "菊池風磨", 22),
+    ("勝利くん", "佐藤勝利", 20)
+], "勝利くん"))
+```
+
+### Step1: 「あるメンバー」の年齡を保存する
+
+まずは、`nickname`に指定された「あるメンバー」の年齡を求める必要があります。後にこの年齡と各メンバーの年齡を比較していくので、これを`compared_age`という変数に保存し、初期値`0`を代入しておきます。
+
+`for`ループを使って、リスト`members`の要素の`[0]`に入っているニックネームが`nickname`と一致した時に、`compared_age`を`members`の`[2]`に入っている年齡に更新する処理を行います。
+
+```python
+def next_older_member(members, nickname):
+    # `nickname`に指定されたメンバーの年齡
+    compared_age = 0 # 初期値
+
+    # `members`のニックネームが`nickname`と一致した時に
+    # `compared_age`を`members`の年齡に更新
+    for next_member in members:
+        if next_member[0] == nickname:
+            compared_age = next_member[2]
+```
+
+「あるメンバー」の年齡を`compared_age`に保存することができました！
+
+### Step2: 「次に年上のメンバー」を保存する
+
+次に、これまでの練習問題と同じように`for`ループを使って、各メンバーの年齡を`compared_age`と順に比較していく処理を考えます。
+
+求めたい「次に年上のメンバー」の年齡を変数`next_older_member_age`に、ニックネームを変数`next_older_member_nickname`に保存し、それぞれに初期値`0`と空の文字列を代入しておくことにします。
+
+また、ループ処理の中で条件が満たされた時に`next_older_member_age`を今調べているメンバーの年齡に更新し、同時に`next_older_member_nickname`を今調べているメンバーのニックネームに更新します。
+
+さらに、`return`を使って、すべてのメンバーの比較が完了した時点での`next_older_member_nickname`を関数の最後で返すようにします。
+
+```python
+def next_older_member(members, nickname):
+
+    compared_age = 0
+
+    for next_member in members:
+        if next_member[0] == nickname:
+            compared_age = next_member[2]
+
+    # 「次に年上のメンバー」の年齡
+    next_older_member_age = 0 # 初期値
+    # 「次に年上のメンバー」のニックネーム
+    next_older_member_nickname = "" #初期値
+
+    for next_member in members:
+        # 条件が満たされた時に
+        if # ???:
+            # `next_older_member_age`を更新
+            next_older_member_age = next_member[2]
+            # `next_older_member_nickname`を更新
+            next_older_member_nickname = next_member[0]
+
+    # 最終的な「次に年上のメンバー」のニックネームを返す
+    return next_older_member_nickname
+```
+
+### Step3: 「次に年上のメンバー」を更新する
+
+では`next_older_member_age`を今調べているメンバーの年齡に更新するのは、どんな条件がそろった時でしょうか。
+
+「次に年上のメンバー」の年齡は必ず「あるメンバー」の年齡より大きいので、まずは
+
+- `members`の`[2]`に入っている年齡が`compared_age`より大きい
+
+という条件が必要です。
+
+さらに、**その時点での**「次に年上のメンバー」と今調べているメンバーの年齡を比較し、**その時点での**「次に年上のメンバー」の方が大きければ、「次に年上のメンバー」は今調べているメンバーに置き換わることになるので
+
+- `next_older_member_age`が`members`の`[2]`に入っている年齡より大きい
+
+という条件も同時に満たす必要があります。
+
+今調べているメンバーの年齡が、**その時点での**「次に年上のメンバー」の年齡と、「あるメンバー」の年齡の間にある時に、`next_older_member_age`を更新する、というわけです😉
+
+```python
+def next_older_member(members, nickname):
+
+    compared_age = 0
+
+    for next_member in members:
+        if next_member[0] == nickname:
+            compared_age = next_member[2]
+
+    next_older_member_age = 0
+    next_older_member_nickname = ""
+
+    for next_member in members:
+        # `members`の`[2]`に入っている年齡が
+        # `compared_age`より大きく
+        # `next_older_member_age`が
+        # ` members`の`[2]`に入っている年齡より大きい場合
+        if next_member[2] > compared_age and \
+        next_older_member_age > next_member[2]:
+            # `next_older_member_age`を更新する
+            next_older_member_age = next_member[2]
+            next_older_member_nickname = next_member[0]
+
+    return next_older_member_nickname
+```
+
+これで完成です！…と言いたいところですが、少し考えてみましょう🤔[~~大人の~~最初にきめたやり方それが正解なの？](http://j-lyric.net/artist/a055cda/l026e0d.html)
+
+最初に定義しておいた`next_older_member_age`の初期値`0`はどのメンバーよりも年上ではありません。これでは、「`next_older_member_age`が`members`の`[2]`に入っている年齡より大きい」という条件は未来永劫満たされることはありません。
+
+そこで「`next_older_member_age`が`members`の`[2]`に入っている年齡より大きい」という条件を満たす最初のメンバーが現れた時に、`next_older_member_age`がそのメンバーの年齡に必ず置き換わるように、`next_older_member_age`の初期値には**どのメンバーの年齡よりも大きい値**を代入しておく必要があります。
+
+100歳までアイドルを続けているメンバーはどのグループにもさすがにいないので、`next_older_member_age`の初期値には`100`を代入しておくことにします。
+
+```python
+def next_older_member(members, nickname):
+
+    compared_age = 0
+
+    for next_member in members:
+        if next_member[0] == nickname:
+            compared_age = next_member[2]
+
+    next_older_member_age = 100 # 初期値を変更
+    next_older_member_nickname = ""
+
+    for next_member in members:
+        if next_member[2] > compared_age and next_older_member_age > next_member[2]:
+            next_older_member_age = next_member[2]
+            next_older_member_nickname = next_member[0]
+
+    return next_older_member_nickname
+```
+
+これで無事、最後のメンバーまで比較を行うことができるようになりました😘完成です🌹💕
+
+```python
+print(oldest_member([
+    ("聡ちゃん", "松島聡", 19),
+    ("マリ", "マリウス葉", 17),
+    ("ケンティー", "中島健人", 23),
+    ("風磨くん", "菊池風磨", 22),
+    ("勝利くん", "佐藤勝利", 20)
+], "勝利くん"))
+```
+
+Se<span class="color-red-600">xy</span> Zoneのデータを使い、`nickname`に"風磨くん"と指定してPythonで実行してみると…
+
+```
+❯ python3.6 next_older_member.py
+ケンティー
+```
+
+さらに`nickname`に"マリ"と指定してPythonで実行してみると…
+
+```
+❯ python3.6 next_older_member.py
+聡ちゃん
+```
+
+これで我々は風磨くんとケンティーの「ふまけん💜💙」コンビ、マリと聡ちゃんの「聡マリ💚💛」コンビがこれから刻む[新しいAge](http://j-lyric.net/artist/a055cda/l026e0d.html)を見逃さずに済みそうです。Se<span class="color-red-600">xy</span>時代への大きな一歩を踏み出すことができました😉🥀
 
 <a name="5"></a>
 
