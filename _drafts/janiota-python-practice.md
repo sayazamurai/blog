@@ -315,7 +315,7 @@ print(oldest_member([
 次は少しディープな世界に入ります。同じリストを使って、2番目に最年長のメンバーが誰かを出力するプログラムを書いてみてください。
 
 実装するのは下の`second_oldest_member`関数です。嵐のメンバーの場合、大野くんの次に最年長のメンバーはしっかり者な「嵐の次男」的存在、35
-歳の櫻井くんなので、"翔くん"と出力されればOKです。
+歳の櫻井くんなので、`翔くん`と出力されればOKです。
 
 ```python
 def second_oldest_member(members):
@@ -569,7 +569,7 @@ Se<span class="color-red-600">xy</span> Zoneのメンバーのニックネーム
 
 実装するのは下の`next_older_member`関数です。対象のメンバー`members`に加え、「あるメンバー」のニックネームを指定できるよう`nickname`という変数を追加します。
 
-たとえば`nickname`に`風磨くん`と指定した場合、22歳の菊池風磨くんの次に年上の"ケンティー"と出力されればOKです。
+たとえば`nickname`に`"風磨くん"`と指定した場合、22歳の菊池風磨くんの次に年上の`ケンティー`と出力されればOKです。
 
 ```python
 # 変数`nickname`を追加
@@ -604,7 +604,33 @@ def next_older_member(members, nickname):
             compared_age = next_member[2]
 ```
 
-「あるメンバー」の年齡を`compared_age`に保存することができました！
+`compared_age`が正しく指定されているかどうか、`print`を使って確かめてみましょう。上記の最後に`print`を追加し、`nickname`に`"風磨くん"`と指定して実行してみます。
+
+```python
+def next_older_member(members, nickname):
+    # ...
+
+    print(compared_age)
+
+print(next_older_member([
+    ("聡ちゃん", "松島聡", 19),
+    ("マリ", "マリウス葉", 17),
+    ("ケンティー", "中島健人", 23),
+    ("風磨くん", "菊池風磨", 22),
+    ("勝利くん", "佐藤勝利", 20)
+], "風磨くん"))
+```
+
+実行すると、風磨くんの年齡である`22`が出力されました。
+
+```
+❯ python3.6 next_older_member.py
+22
+```
+
+これで「あるメンバー」の年齡を`compared_age`に保存することができました！
+
+次のステップに進む前に、`print`は消しておきます。
 
 ### Step2: 「次に年上のメンバー」を保存する
 
@@ -618,7 +644,6 @@ def next_older_member(members, nickname):
 
 ```python
 def next_older_member(members, nickname):
-
     compared_age = 0
 
     for next_member in members:
@@ -648,13 +673,13 @@ def next_older_member(members, nickname):
 
 まず、「次に年上のメンバー」の年齡は必ず「あるメンバー」の年齡より大きいので、
 
-1. `members`の`[2]`に入っている年齡が`compared_age`より大きい
+1\. `members`の`[2]`に入っている年齡が`compared_age`より大きい
 
 という条件が必要です。
 
 さらに、**その時点での**「次に年上のメンバー」と今調べているメンバーの年齡を比較し、**その時点での**「次に年上のメンバー」の方が大きければ、「次に年上のメンバー」は今調べているメンバーに置き換わることになるので
 
-2. `next_older_member_age`が`members`の`[2]`に入っている年齡より大きい
+2\. `next_older_member_age`が`members`の`[2]`に入っている年齡より大きい
 
 という条件も同時に満たす必要があります。
 
@@ -662,7 +687,6 @@ def next_older_member(members, nickname):
 
 ```python
 def next_older_member(members, nickname):
-
     compared_age = 0
 
     for next_member in members:
@@ -686,17 +710,75 @@ def next_older_member(members, nickname):
     return next_older_member_nickname
 ```
 
-これで完成です！…と言いたいところですが、少し考えてみましょう🤔[~~大人の~~最初にきめたやり方それが正解なの？](http://j-lyric.net/artist/a055cda/l026e0d.html)
+さっそく実行してみましょう！
 
-最初に定義しておいた`next_older_member_age`の初期値`0`はどのメンバーよりも年上ではありません。これでは、2. の「`next_older_member_age`が`members`の`[2]`に入っている年齡より大きい」という条件は未来永劫、満たされることはありません。
+```python
+# "ケンティー"と出力されればOK
+print(next_older_member([
+    ("聡ちゃん", "松島聡", 19),
+    ("マリ", "マリウス葉", 17),
+    ("ケンティー", "中島健人", 23),
+    ("風磨くん", "菊池風磨", 22),
+    ("勝利くん", "佐藤勝利", 20)
+], "風磨くん"))
+```
 
-そこで1. の「`next_older_member_age`が`members`の`[2]`に入っている年齡より大きい」という条件を満たす最初のメンバーが現れた時に、`next_older_member_age`がそのメンバーの年齡に必ず置き換わるように、`next_older_member_age`の初期値には**どのメンバーの年齡よりも大きい値**を代入しておく必要があります。
+しかし、実行してみると、出力されたのは空の文字列だけ。どこが間違っているのでしょうか？
+
+```
+❯ python3.6 next_older_member.py
+
+
+
+```
+
+
+### Step4: `next_older_member_age`のバグを直す
+
+```python
+def next_older_member(members, nickname):
+    compared_age = 0
+
+    for next_member in members:
+        if next_member[0] == nickname:
+            compared_age = next_member[2]
+
+    next_older_member_age = 0
+    next_older_member_nickname = ""
+
+    for next_member in members:
+        if next_member[2] > compared_age and \
+        next_older_member_age > next_member[2]:
+            next_older_member_age = next_member[2]
+            next_older_member_nickname = next_member[0]
+
+    return next_older_member_nickname
+```
+
+少し考えてみましょう🤔[~~大人の~~最初にきめたやり方それが正解なの？](http://j-lyric.net/artist/a055cda/l026e0d.html)
+
+最初に定義しておいた`next_older_member_age`の初期値`0`はどのメンバーよりも年上ではありません。これでは、2番目の`for`ループの中にある、
+
+```python
+if next_member[2] > compared_age and \
+    next_older_member_age > next_member[2]:
+```
+
+上の二行目の「`next_older_member_age`が`members`の`[2]`に入っている年齡より大きい」という条件は未来永劫、満たされることはありません。
+
+だから、`next_older_member_age`は`0`のまま、`next_older_member_nickname`は空の文字列のままになってしまっているのです。
+
+```python
+if next_member[2] > compared_age and \
+    next_older_member_age > next_member[2]:
+```
+
+そこで一行目の「`next_older_member_age`が`members`の`[2]`に入っている年齡より大きい」という条件を満たす最初のメンバーが現れた時に、`next_older_member_age`がそのメンバーの年齡に必ず置き換わるように、`next_older_member_age`の初期値には**どのメンバーの年齡よりも大きい値**を代入しておく必要があります。
 
 100歳までアイドルを続けているメンバーはどのグループにもさすがにいないので、`next_older_member_age`の初期値には`100`を代入しておくことにします。
 
 ```python
 def next_older_member(members, nickname):
-
     compared_age = 0
 
     for next_member in members:
@@ -726,14 +808,14 @@ print(oldest_member([
 ], "風磨くん"))
 ```
 
-Se<span class="color-red-600">xy</span> Zoneのデータを使い、`nickname`に"風磨くん"と指定してPythonで実行してみると…
+Se<span class="color-red-600">xy</span> Zoneのデータを使い、`nickname`に`"風磨くん"`と指定してPythonで実行してみると…
 
 ```
 ❯ python3.6 next_older_member.py
 ケンティー
 ```
 
-さらに`nickname`に"マリ"と指定してPythonで実行してみると…
+さらに`nickname`に`"マリ"`と指定してPythonで実行してみると…
 
 ```
 ❯ python3.6 next_older_member.py
