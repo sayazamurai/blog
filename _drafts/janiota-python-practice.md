@@ -1,9 +1,9 @@
 ---
 title: プログラミング歴ゼロの31歳ジャニヲタ、Pythonを学ぶ。超初心者向けの練習問題を5問紹介。
-image: /images/janiota-python-practice/main.jpg
+image: /images/janiota-python-practice/IMG_0083.jpg
 ---
 
-![](/images/janiota-python-practice/main.jpg)
+![](/images/janiota-python-practice/IMG_0083.jpg)
 
 こんにちは！ジャニオタ歴20年、アクセサリーデザイナーのSayaと申します。
 
@@ -810,12 +810,13 @@ Se<span class="color-red-600">xy</span> Zoneのデータを使い、`nickname`�
 聡ちゃん
 ```
 
-これで我々は風磨くんとケンティーの「ふまけん💜💙」コンビ、マリと聡ちゃんの「聡マリ💚💛」コンビがこれから刻む[新しいAge](http://j-lyric.net/artist/a055cda/l026e0d.html)を見逃さずに済みそうです。来たるSe<span class="color-red-600">xy</span>時代への大きな一歩を踏み出すことができました😉🥀
+これで我々は風磨くんとケンティーの「ふまけん💜💙」コンビ、マリと聡ちゃんの「聡マリ💚💛」コンビがこれから刻む**[新しいAge](http://j-lyric.net/artist/a055cda/l026e0d.html)**を見逃さずに済みそうです。来たるSe<span class="color-red-600">xy</span>時代への大きな一歩を踏み出すことができました😉🥀
 
 <a name="5"></a>
 
 ## 練習問題その5: 数年後のメンバーの年齢を正しく求める
 
+最後の問題です。
 
 
 
