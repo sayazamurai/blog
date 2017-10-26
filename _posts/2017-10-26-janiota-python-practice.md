@@ -1104,3 +1104,5 @@ False
 </figure>
 
 以上、初心者向けのPython練習問題5問でした。少しでも世界平和とセクシー時代の構築に貢献できたら幸いです。ご感想は[ツイッター](http://twitter.com/sayajewels)までお寄せください。
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">プログラミング歴ゼロの31歳ジャニヲタ、Pythonを学ぶ。超初心者向けの練習問題を5問紹介。 | Saya’s Blog <a href="https://t.co/WOfYjJ0CVH">https://t.co/WOfYjJ0CVH</a> <a href="https://twitter.com/sayajewels?ref_src=twsrc%5Etfw">@sayajewels</a>さんから</p>&mdash; Saya (@sayajewels) <a href="https://twitter.com/sayajewels/status/923445772418301952?ref_src=twsrc%5Etfw">2017年10月26日</a></blockquote>
