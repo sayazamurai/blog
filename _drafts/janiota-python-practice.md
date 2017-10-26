@@ -3,7 +3,12 @@ title: プログラミング歴ゼロの31歳ジャニヲタ、Pythonを学ぶ�
 image: /images/janiota-python-practice/IMG_0083.jpg
 ---
 
-![](/images/janiota-python-practice/IMG_0083.jpg)
+<figure>
+    <img src="/images/janiota-python-practice/IMG_0083.jpg" />
+    <figcaption>
+
+    </figcaption>
+</figure>
 
 こんにちは！ジャニヲタ歴20年、アクセサリーデザイナーのSayaと申します。
 
@@ -45,6 +50,13 @@ image: /images/janiota-python-practice/IMG_0083.jpg
 <a name="1"></a>
 
 ## 練習問題その1: メンバーの平均年齢を求める
+
+<figure>
+    <img src="/images/janiota-python-practice/IMG_0088.jpg" />
+    <figcaption>
+
+    </figcaption>
+</figure>
 
 まずはウォーミングアップとして、[You are my SOUL！SOUL！いつもすぐそばにある！](http://j-lyric.net/artist/a000eac/l00091a.html)今をときめくジャニーズの財務基盤、嵐先生の平均年齢を、Pythonを使って求めてみましょう。
 
@@ -201,6 +213,14 @@ print(average_age([
 
 ## 練習問題その2: 最年長のメンバーが誰か調べる
 
+<figure>
+    <img src="/images/janiota-python-practice/IMG_0181.jpg" />
+    <figcaption>
+
+    </figcaption>
+</figure>
+
+
 では次に、練習問題その1と同じリストを使って、最年長のメンバーが誰かを出力するプログラムを書いてみてください。
 
 実装するのは下の`oldest_member`関数です。嵐のメンバーの場合、最年長は36
@@ -311,6 +331,13 @@ print(oldest_member([
 <a name="3"></a>
 
 ## 練習問題その3: 2番目に最年長のメンバーが誰か調べる
+
+<figure>
+    <img src="/images/janiota-python-practice/IMG_2125.jpg" />
+    <figcaption>
+
+    </figcaption>
+</figure>
 
 次は少しディープな世界に入ります。同じリストを使って、2番目に最年長のメンバーが誰かを出力するプログラムを書いてみてください。
 
@@ -536,6 +563,12 @@ print(oldest_member([
 <a name="4"></a>
 
 ## 練習問題その4: あるメンバーの次に年上のメンバーが誰か調べる
+
+<figure>
+    <img src="/images/janiota-python-practice/IMG_009.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
 
 さらにディープな世界に入ります。次は「あるメンバーの次に年上のメンバーが誰かを出力するプログラムを書いてください。」という問題です。
 
@@ -818,6 +851,13 @@ Se<span class="color-red-600">xy</span> Zoneのデータを使い、`nickname`�
 
 ## 練習問題その5: 数年後のメンバーの年齢を正しく求める
 
+<figure>
+    <img src="/images/janiota-python-practice/IMG_3824.jpg" />
+    <figcaption>
+
+    </figcaption>
+</figure>
+
 いよいよ最後の問題です。またここにSe<span class="color-red-600">xy</span> Zoneのメンバーのデータを用意しました。一番右の行は3年後、東京オリンピックの年のメンバーの年齡です。ちょうど時代が追いついている頃です。
 
 | ニックネーム | フルネーム | 年齢 | 3年後 |
@@ -1054,5 +1094,13 @@ False
 ```
 
 ## おわりに
+
+
+<figure>
+    <img src="/images/janiota-python-practice/IMG_0093.jpg" />
+    <figcaption>
+
+    </figcaption>
+</figure>
 
 以上、初心者向けのPython練習問題5問でした。少しでも世界平和とセクシー時代の構築に貢献できたら幸いです。ご感想は[ツイッター](http://twitter.com/sayajewels)までお寄せください。
