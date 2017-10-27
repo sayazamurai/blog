@@ -502,7 +502,7 @@ def second_oldest_member(members):
 
 ### Step3: 最年長/2番目に最年長のメンバーのニックネームを更新する
 
-最終的に得たい答えは2番目に最年長のメンバーのニックネームなので、練習問題その2と同様、`oldest_age`、`second_oldest_age`を更新した時に、`oldest_member_nickname`、`second_oldest_member_nickname`を同時に更新することにします。
+最終的に得たい答えは2番目に最年長のメンバーのニックネームなので、練習問題その2と同様、`oldest_age`、`second_oldest_age`を更新した時に、`oldest_member_nickname`、 `second_oldest_member_nickname` を同時に更新することにします。
 
 ここでも年齡と同様、更新の順序に注意です！
 
