@@ -319,7 +319,7 @@ print(oldest_member([
 ]))
 ```
 
-嵐のデータを使い、Pythonで実行してみると…
+嵐のデータを使い、Pythonで実行してみると...
 
 ```
 ❯ python3.6 oldest_member.py
@@ -549,7 +549,7 @@ print(oldest_member([
 ]))
 ```
 
-嵐のデータを使い、Pythonで実行してみると…
+嵐のデータを使い、Pythonで実行してみると...
 
 ```
 ❯ python3.6 second_oldest_member.py
@@ -831,14 +831,14 @@ print(oldest_member([
 ], "風磨くん"))
 ```
 
-Se<span class="color-red-600">xy</span> Zoneのデータを使い、`nickname`に`"風磨くん"`と指定してPythonで実行してみると…
+Se<span class="color-red-600">xy</span> Zoneのデータを使い、`nickname`に`"風磨くん"`と指定してPythonで実行してみると...
 
 ```
 ❯ python3.6 next_older_member.py
 ケンティー
 ```
 
-さらに`nickname`に`"マリ"`と指定してPythonで実行してみると…
+さらに`nickname`に`"マリ"`と指定してPythonで実行してみると...
 
 ```
 ❯ python3.6 next_older_member.py
@@ -868,7 +868,7 @@ Se<span class="color-red-600">xy</span> Zoneのデータを使い、`nickname`�
 | 風磨くん | 菊池　風磨 | 22 | 25 |
 | 勝利くん | 佐藤　勝利 | 20 | 22 |
 
-ここで一人、3年後の年齡が間違っているメンバーがいます。誰でしょう…🤔
+ここで一人、3年後の年齡が間違っているメンバーがいます。誰でしょう...🤔
 
 | ニックネーム | フルネーム | 年齢 | 3年後 |
 |------------|------------|:------------:|:------------:|
@@ -1105,6 +1105,10 @@ False
 
 以上、初心者向けのPython練習問題5問でした。少しでも世界平和とセクシー時代の構築に貢献できたら幸いです。ご感想は[ツイッター](http://twitter.com/sayajewels)までお寄せください。
 
-最後に、ここまで読んでくださった皆さまは[セクガル・セクボ](http://d.hatena.ne.jp/keyword/%A5%BB%A5%AF%A5%AC%A5%EB)の素質があることに間違いなしです！！！Se<span class="color-red-600">xy</span> Zoneのリア恋枠担当、菊池風磨くん初主演ドラマ[「吾輩の部屋である」](http://www.ntv.co.jp/wagaheya/)月曜深夜24:59〜日本テレビ系にて放送中！！！！！！疲れた夜に見るべし！！！！！！（※もっと疲れるかもしれません。）
+最後に、ここまで読んでくださった皆さまは[セクガル・セクボ](http://d.hatena.ne.jp/keyword/%A5%BB%A5%AF%A5%AC%A5%EB)の素質があること間違いなしです！！！Se<span class="color-red-600">xy</span> Zoneのリア恋枠担当、**<span class="color-purple-400">菊池風磨くん</span>**初主演ドラマ**[「吾輩の部屋である」](http://www.ntv.co.jp/wagaheya/)**月曜深夜24:59〜日本テレビ系にて放送中！！！！！！月曜深夜！！癒やしのほしい夜にぴったり！！！！！！（※もっと疲れるかもしれません。）
+
+最後の最後に、来たる10月30日はなんと、Se<span class="color-red-600">xy</span> Zoneの永遠の[0番](http://realsound.jp/2014/05/post-494.html)担当、**<span class="color-red-600">佐藤勝利くん</span>**の21歳のBirthDayですおめでとうおめでとうおめでとう！！！！！タプルの内容を変えなければ...大人になられた...(感涙)
+
+今日は以上です。ここまで読んでくださって**[STY](https://matome.naver.jp/odai/2142474882893600201)**！！
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">プログラミング歴ゼロの31歳ジャニヲタ、Pythonを学ぶ。超初心者向けの練習問題を5問紹介。 | Saya’s Blog <a href="https://t.co/WOfYjJ0CVH">https://t.co/WOfYjJ0CVH</a> <a href="https://twitter.com/sayajewels?ref_src=twsrc%5Etfw">@sayajewels</a>さんから</p>&mdash; Saya (@sayajewels) <a href="https://twitter.com/sayajewels/status/923445772418301952?ref_src=twsrc%5Etfw">2017年10月26日</a></blockquote>
