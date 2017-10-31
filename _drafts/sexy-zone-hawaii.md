@@ -10,11 +10,11 @@ image: "/images/hawaii/1.jpg"
 # ![](/images/hawaii/1.jpg)
 ---
 
-![](/images/hawaii/1.jpg)
+![](/images/hawaii/kakaako_1.jpg)
 
 
 <figure>
-    <img src="/images/hawaii/1.jpg" />
+    <img src="/images/hawaii/kakaako_1.jpg" />
     <figcaption>
 
     </figcaption>
