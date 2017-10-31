@@ -16,7 +16,7 @@ image: "/images/hawaii/1.jpg"
 <figure>
     <img src="/images/hawaii/kakaako_1.jpg" />
     <figcaption>
-
+        aaaaaa
     </figcaption>
 </figure>
 
