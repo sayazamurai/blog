@@ -42,13 +42,24 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
 
 それでは、セクシーロードの旅、華麗にセクシースタート🥀🏖
 
-# Zone1：ダウンタウン・チャイナタウン
+## 目次
+
+1. [ダウンタウン・チャイナタウン](#1)
+2. [カカアコ](#2)
+3. [カピオラニパーク](#3)
+4. [ホテル ザ・モダン・ホノルル](#4)
+5. [キングスヴィレッジ](#5)
+6. [オープンカーのドライブコース](#6)
+
+<a name="1"></a>
+
+## Zone1：ダウンタウン・チャイナタウン
 
 ダウンタウン・チャイナタウンは、ワイキキから北の方に、バスで40分ほどのエリア。ハワイの公共バス"The Bus"を使うと往復5ドルで行けます。行き方&バスの乗り方は[こちらのサイト](http://www.hawaiiscoop.com/?p=852)が超詳しい（丸投げ）。夜は治安があまりよくないので、必ず日中に行ってね！
 
 このゾーンでチェックすべきセクシーポイント（※ロケ地）は6つ。MVで出てくる時系列順に追います。
 
-## Zone1-1：Fort St.Mall Satellite City Hallの階段
+### Zone1-1：Fort St.Mall Satellite City Hallの階段
 
 MVの
 - 0:13(※0分13秒)：地下から5人で登場
@@ -95,7 +106,7 @@ MVの
 
 このZoneでここだけ、他のロケ場所から少し離れているので、一番先に行くことをおすすめします。
 
-## Zone1-2：Hawaii Theatreの前
+### Zone1-2：Hawaii Theatreの前
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3717.0010211043127!2d-157.86342904963047!3d21.31097598577671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e74415ea3a5%3A0xa40f94a934603000!2sHawaii+Theatre!5e0!3m2!1sja!2sjp!4v1514554028658" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -125,7 +136,7 @@ MVで看板が"ROCK THA TOWN"になってるのいいよね。勝利くんが歩
     </figcaption>
 </figure>
 
-## Zone1-3：Brown Shoe Repairの前の交差点
+### Zone1-3：Brown Shoe Repairの前の交差点
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d586.4497221787894!2d-157.86235885605157!3d21.311008705643513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e746d7582ff%3A0x12789bc84d742eaa!2sBrown+Shoe+Repair!5e0!3m2!1sja!2sjp!4v1514555003552" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -154,7 +165,7 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
 
 車通りが多いので、写真撮影は信号が青の時に一瞬で！（私は20回くらい信号往復した）
 
-## Zone1-4：BAR35の前の道(風磨・マリ)
+### Zone1-4：BAR35の前の道(風磨・マリ)
 
 ここから3つは続けてささっと回れます。
 
@@ -171,7 +182,7 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
     </figcaption>
 </figure>
 
-## Zone1-5：Kan Zamanの前の道(健人・聡）
+### Zone1-5：Kan Zamanの前の道(健人・聡）
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1375.2509502594853!2d-157.86285374802353!3d21.31133354886088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e7470c27ab5%3A0xbf46c20a2d81b140!2sKan+Zaman+Restaurant+-+Chinatown!5e0!3m2!1sja!2sjp!4v1514556390617" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -186,7 +197,7 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
     </figcaption>
 </figure>
 
-## Zone1_5：Legal Aid Society of Hawaiiの前の道(勝利・聡・マリ)
+### Zone1_5：Legal Aid Society of Hawaiiの前の道(勝利・聡・マリ)
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3358.352175732736!2d-157.86311311932522!3d21.309474772352875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e737fc90b6b%3A0xa916c7f2f2daa94!2sLegal+Aid+Society+of+Hawaii!5e0!3m2!1sja!2sjp!4v1514556935587" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -223,43 +234,71 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3358.352175732736!2d-157.86311311932522!3d21.309474772352875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1efe275b56b64276!2z5Li45LqA6KO96bq6IOODgOOCpuODs-OCv-OCpuODs-ODm-ODjuODq-ODq-W6lw!5e0!3m2!1sja!2sjp!4v1514557459166" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
-# Zone2：カカアコ
+<a name="2"></a>
+
+## Zone2：カカアコ
+
+Zone1のダウンタウン・チャイナタウンとワイキキの間にあるウォールアート街のエリア。マリウスもメイキングで話していたように、最近「アートの街」として有名になってきているようです。
+
+しかしロケ地の周りにはあまり人もいないしレストランも無いのでちょっと注意。
+
+ウォールアートは季節ごとに塗り替えられるようで、私が行った2017年秋頃には聡マリバックのアート以外はすべて[塗り替えられてしまっていました](http://www.hawaiiscoop.com/?p=34408)😢残っていたのが聡マリとは…さすがシンメ！💚💛(※MVの撮影は2016年10月、塗替えは2017年2月)
+
+
+しかし壁の前でMVを見ているだけで心の穴が埋まる気がした。このロケ地を見つけて採用してくださったスタッフさん天才か！ありがとうございます！（2回目）
+
+撮影場所は全部ほぼ隣接していますがメンバー/シーンごとに細かくいきます♪
+
+### Zone2-1：全員バック&勝利
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
-全員バック&勝利
-マリ&ケンティー
-聡&全員歩くとこ
-風磨
 
-ダウンタウンとカカアコの途中に、特典映像でSexy Zoneの5人も行っていたカメハメハ大王像があるので寄ってもよいかもです🌴
+### Zone2-2：マリ&ケンティー
+### Zone2-3：聡&全員歩くとこ
+### Zone2-4：風磨
 
-# Zone3カピオラニパーク
+ダウンタウンとカカアコの間に、特典映像でSexy Zoneの5人も行っていた「カメハメハ大王像」があるので、寄ってみてもよいかもです🌴
+
+そして「塗り替え」といえば・・・！！！
+Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春のツアー！！FCに入るなら今しかない！！！！！
+
+[![https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg](https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg)](https://www.amazon.co.jp/XYZ-repainting-%E9%80%9A%E5%B8%B8%E7%9B%A4-Sexy-Zone/dp/B078HT8CGY)
+
+<a name="3"></a>
+
+## Zone3：カピオラニパーク
 Kapiolani Park Bandstand
 しょりけんの教習所漫才（メイキング）
 勝利とマリが歩いてた道（メイキング）
 海のポール（勝利）（メイキング）
 海の全員で写真撮った台（メイキング）
 
-# Zone4ザ モダン ホノルル
+<a name="4"></a>
+
+## Zone4：ホテル ザ・モダン・ホノルル
 ラウンジ The Study
 車に乗る前、カカアコ行く前（メイキング）
 
-# Zone5 キングスビレッジ
+<a name="5"></a>
+
+## Zone5：キングスビレッジ
 Rock Island Cafeからサブウェイまでの道
 しょりけんの漫才のPublic Parking前（メイキング）
 最後に車に乗り込んだPublic Parking前(メイキング)
 
-# Zone6オープンカーßドライブ
+<a name="6"></a>
+
+## Zone6：オープンカーのドライブコース
 健人&しょりマリの道
 風磨&聡の道
 アクア アロハ サーフ ワイキキ ホテル
 ハイアットリージェンシー ワイキキビーチ リゾート&スパ(メイキング)
 風磨くんが乗り込むところザ モダン ホノルル(メイキング）
 
-カメハメハ大王像、Bluenote
+Bluenote
 
 
 
