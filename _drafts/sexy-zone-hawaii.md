@@ -1,5 +1,5 @@
 ---
-title: 32歳ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Sexy Zone「Rock Tha Town」6つのロケ地巡り全記録〜"
+title: ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Sexy Zone「Rock Tha Town」6つのロケ地巡り全記録〜"
 image: "/images/hawaii/kakaako_so_1.jpg"
 ---
 
@@ -19,12 +19,12 @@ Sexy Zoneという大きな光に、私のハートの小指の爪の先程の�
 
 わたくし、行ってまいりました。
 
-何だか魂(ソウル)が西の方かどっかから呼ばれた気がして…
+何だか魂(ソウル)が東の方かどっかから呼ばれた気がして…
 某公式ジャニーズウェブ・ジャニーズネットの情報の1万倍の正確性で「行くのです！」とお告げを受けた気がして…
 
 Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(と言っても過言ではない。おそらく)
 
-ハワイへ。
+ハワイへ🌊🐬🌴
 
 <figure>
     <img src="/images/hawaii/kakaako_so_1.jpg" />
@@ -57,7 +57,7 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
 
 ダウンタウン・チャイナタウンは、ワイキキから北の方に、バスで40分ほどのエリア。ハワイの公共バス"The Bus"を使うと往復5ドルで行けます。行き方&バスの乗り方は[こちらのサイト](http://www.hawaiiscoop.com/?p=852)が超詳しい（丸投げ）。夜は治安があまりよくないので、必ず日中に行ってね！
 
-このゾーンでチェックすべきセクシーポイント（※ロケ地）は6つ。MVで出てくる時系列順に追います。
+このゾーンでチェックすべきセクシーポイント（※撮影場所）は6つ。MVで出てくる時系列順に追います。
 
 ### Zone1-1：Fort St.Mall Satellite City Hallの階段
 
@@ -228,7 +228,7 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
 
 このZoneは以上です。繰り返しますが、夜はあまり治安がよくない場所なので、良い子のセクガルさんたちは日中に行くように！
 
-朝から行ってお昼を近くの丸亀製麺ダウンタウンホノルル店で食べるのがよいかも🍲♪
+朝から行ってお昼を近くの丸亀製麺ダウンタウンホノルル店で食べるのがよいかも🍲午後はZone2カカアコへ〜♪
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3358.352175732736!2d-157.86311311932522!3d21.309474772352875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1efe275b56b64276!2z5Li45LqA6KO96bq6IOODgOOCpuODs-OCv-OCpuODs-ODm-ODjuODq-ODq-W6lw!5e0!3m2!1sja!2sjp!4v1514557459166" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -242,12 +242,11 @@ Zone1のダウンタウン・チャイナタウンとワイキキの間にある
 
 しかしロケ地の周りにはあまり人もいないしレストランも無いのでちょっと注意。
 
-ウォールアートは季節ごとに塗り替えられるようで、私が行った2017年秋頃には聡マリバックのアート以外はすべて[塗り替えられてしまっていました](http://www.hawaiiscoop.com/?p=34408)😢残っていたのが聡マリとは…さすがシンメ！💚💛(※MVの撮影は2016年10月、塗替えは2017年2月)
-
+ウォールアートは季節ごとに塗り替えられるようで、私が行った2017年秋頃には聡マリバックのアート以外はすべて[塗り替えられていました](http://www.hawaiiscoop.com/?p=34408)😢残っていたのが聡マリとは…さすがシンメ！💚💛(※MVの撮影は2016年10月、塗替えは2017年2月)
 
 しかし壁の前でMVを見ているだけで心の穴が埋まる気がした。このロケ地を見つけて採用してくださったスタッフさん天才か！ありがとうございます！（2回目）
 
-撮影場所は全部ほぼ隣接していますがメンバー/シーンごとに細かくいきます♪
+4つのセクシーポイントは全部ほぼ隣接していますが、メンバー/シーンごとにMV時系列順で細かくいきます♪
 
 ### Zone2-1：全員バック&勝利
 
@@ -257,10 +256,26 @@ Zone1のダウンタウン・チャイナタウンとワイキキの間にある
 
 
 ### Zone2-2：マリ&ケンティー
+
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
 ### Zone2-3：聡&全員歩くとこ
+
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
 ### Zone2-4：風磨
 
-ダウンタウンとカカアコの間に、特典映像でSexy Zoneの5人も行っていた「カメハメハ大王像」があるので、寄ってみてもよいかもです🌴
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+このZoneのセクシーポイントは以上です🌹
+
+ダウンタウンとカカアコの間に、特典映像でSexy Zoneの5人も行っていた「カメハメハ大王像」があるので、途中で寄ってみてもよいかも🌴
 
 そして「塗り替え」といえば・・・！！！
 Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春のツアー！！FCに入るなら今しかない！！！！！
