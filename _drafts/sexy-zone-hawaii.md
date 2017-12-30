@@ -11,11 +11,11 @@ Sexy Zoneという大きな光に、私のハートの小指の爪の先程の�
 
 「彼らは東京オリンピック開催の頃には日本語の"セクシー"の概念を変え、ジャニーズの揺るぎない財務基盤を支えるトップアイドルになっている」
 
-という未来が形作られた、"あの日"。
+という未来が（私の中で）形作られた、"あの日"。
 
-その日から「Sexy Zoneって、つまり何なのだ・・・」ともはや哲学的とも言えるもやもやを抱えて生きること数年。
+その日から「Sexy Zoneって、つまり何なのだ・・・」ともはや哲学的とも言える問いを抱えて生きること数年。
 
-「コンサートはデートだから！」というラブ・ケンティー先生の名言に私の心はじわじわと侵食され、気づけばその「デート」たるものに馳せ参じ、「恥も外聞も捨てて、この新しいAgeの行く末を見届けよう」と決めたあの名古屋の情事から6ヶ月。
+その間にも「コンサートはデートだから！」というラブ・ケンティー先生の名言に心はじわじわと侵食され、気がづけばその「デート」たるものに馳せ参じ、「恥も外聞も捨てて、この新しいAgeの行く末を見届けよう」と決めたあの名古屋の情事から6ヶ月。
 
 わたくし、行ってまいりました。
 
@@ -33,14 +33,14 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
     </figcaption>
 </figure>
 
-ハワイでは、彼らSexy Zoneの6年目の幕開けを飾った楽曲"Rock Tha Town"の全編ハワイロケMVで、彼らが訪れている全6つのエリアのロケ地を巡ってきました。まさに、ロック（6）・ザ・タウン。
+ハワイでは、彼らSexy Zoneの6年目の幕開けを飾った楽曲"Rock Tha Town"の全編ハワイロケMVで、彼らが訪れている6つのエリアのロケ地を巡ってきました。まさに、ロック（6）・ザ・タウン。
 
 ここからはその詳細な記録を、できるだけ私情を挟まずに惜しげもなく公開することにします。
 
-この生産性皆無の莫大な時間と労力が、わずかでも、ほんのわずかでもどこかのセクガルさんの幸せに貢献できることを祈って。
+この生産性皆無の莫大な時間と労力が、わずかでも、ほんのわずかでもどこかのセクガルさんの幸せに（ひいては未来の歴史の教科書に）貢献できることを祈って。
 ヲタクってなんでみんな同じような文章書いちゃうんだろう・・・。
 
-それでは、セクシーロードの旅、華麗にセクシースタート🥀🏖
+それでは、ハワイセクシーロードの旅、華麗にセクシースタート🥀🏖
 
 ## 目次
 
@@ -55,7 +55,9 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
 
 ## Zone1：ダウンタウン・チャイナタウン
 
-ダウンタウン・チャイナタウンは、ワイキキから北の方に、バスで40分ほどのエリア。ハワイの公共バス"The Bus"を使うと往復5ドルで行けます。行き方&バスの乗り方は[こちらのサイト](http://www.hawaiiscoop.com/?p=852)が超詳しい（丸投げ）。夜は治安があまりよくないので、必ず日中に行ってね！
+ダウンタウン・チャイナタウンは、ワイキキから北の方にバスで40分ほどのエリア🚌今回のロケ地の中で一番ワイキキから遠い。
+
+ハワイの公共バス"The Bus"を使うと往復5ドルで行けます。行き方&バスの乗り方は[こちらのサイト](http://www.hawaiiscoop.com/?p=852)が超詳しい（丸投げ）。夜は治安があまりよくないので、必ず日中に行ってね！
 
 このゾーンでチェックすべきセクシーポイント（※撮影場所）は6つ。MVで出てくる時系列順に追います。
 
@@ -65,7 +67,7 @@ MVの
 - 0:13(※0分13秒)：地下から5人で登場
 - 0:33他：5人で並んで歩くところ
 
-はここで撮影されています。
+はここで撮影されています。通りの向こうのウォルマートを目印に！
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3704.9668625729933!2d-157.86381858589718!3d21.30856859254437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e748fe35a7f%3A0x8539a64b3e495df2!2sFort+St.+Mall+Satellite+City+Hall!5e0!3m2!1sja!2sjp!4v1514549014879" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -86,7 +88,7 @@ MVの
     </figcaption>
 </figure>
 
-この階段を登って地上に出てウォルマートを背にすると、まっすぐ先に噴水と塔が見えます。それを目印に歩くとSexy Zoneの5人が通ったのと同じ道を歩くことができます。
+この階段を登って地上に出てウォルマートを背にすると、まっすぐ先に噴水と塔が見えます⛲それを目印に歩くとSexy Zoneの5人が通ったのと同じ道を歩くことができます。
 
 <figure>
     <img src="/images/hawaii/downtown_st_8.jpg" />
@@ -104,7 +106,7 @@ MVの
 
 誠に勝手ながらこの通りをプチセクシーロードと名付けることに（個人的に）決定した。
 
-このZoneでここだけ、他のロケ場所から少し離れているので、一番先に行くことをおすすめします。
+このゾーンでここだけ他の撮影場所から少し離れているので、一番先に行くことをおすすめします。
 
 ### Zone1-2：Hawaii Theatreの前
 
@@ -122,7 +124,7 @@ MVの
     </figcaption>
 </figure>
 
-MVで看板が"ROCK THA TOWN"になってるのいいよね。勝利くんが歩きながらサングラスかけ直してる手つきもいいよね。
+MVで看板が"ROCK THA TOWN"になってるのいいよね。美術さん天才か。勝利くんが歩きながらサングラスかけ直してる手つきもいいよね🕶
 
 <figure>
     <img src="/images/hawaii/downtown_ht_3.jpg" />
@@ -145,12 +147,13 @@ MVで看板が"ROCK THA TOWN"になってるのいいよね。勝利くんが歩
 - 0:01：新聞の中の画像
 - 0:45：5人で縦の列になって歩いている交差点
 
-あのめちゃくちゃかっこいいシーンがここです！アビーロードみたいな。Hawaii Theatreからすぐ。このZoneでの一番の見どころかも。感動した🌹
+あのめちゃくちゃかっこいいシーンがここです！[ビートルズのアビイロード](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%A4%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89)
+みたいな。Hawaii Theatreからすぐ。このゾーンでの一番の見どころかも🌹
 
 <figure>
     <img src="/images/hawaii/downtown_bs_2.jpg" />
     <figcaption>
-        実際はこの何倍もきれいな景色。
+        実際はこの何倍もきれいな景色。<br>
         ここを見つけて採用してくれたスタッフさんありがとうございます！
     </figcaption>
 </figure>
@@ -163,7 +166,7 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
     </figcaption>
 </figure>
 
-車通りが多いので、写真撮影は信号が青の時に一瞬で！（私は20回くらい信号往復した）
+車通りが多いので、写真撮影は信号が青の時に一瞬で！（私は20回くらい信号往復した🚦）
 
 ### Zone1-4：BAR35の前の道(風磨・マリ)
 
@@ -226,7 +229,7 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
     </figcaption>
 </figure>
 
-このZoneは以上です。繰り返しますが、夜はあまり治安がよくない場所なので、良い子のセクガルさんたちは日中に行くように！
+このゾーンのセクシーポイントは以上です。繰り返しますが、夜はあまり治安がよくない場所なので、良い子のセクガルさんたちは日中に行くように！
 
 朝から行ってお昼を近くの丸亀製麺ダウンタウンホノルル店で食べるのがよいかも🍲午後はZone2カカアコへ〜♪
 
@@ -240,38 +243,124 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
 
 Zone1のダウンタウン・チャイナタウンとワイキキの間にあるウォールアート街のエリア。マリウスもメイキングで話していたように、最近「アートの街」として有名になってきているようです。
 
-しかしロケ地の周りにはあまり人もいないしレストランも無いのでちょっと注意。
+しかしロケ地の周りにはあまり人もいないしレストランも無いのでちょっとだけ注意。
 
 ウォールアートは季節ごとに塗り替えられるようで、私が行った2017年秋頃には聡マリバックのアート以外はすべて[塗り替えられていました](http://www.hawaiiscoop.com/?p=34408)😢残っていたのが聡マリとは…さすがシンメ！💚💛(※MVの撮影は2016年10月、塗替えは2017年2月)
 
-しかし壁の前でMVを見ているだけで心の穴が埋まる気がした。このロケ地を見つけて採用してくださったスタッフさん天才か！ありがとうございます！（2回目）
+しかし壁の前でMVを見ているだけで心の穴が埋まる気がした。ここを見つけて採用してくださったスタッフさん天才か！ありがとうございます！（2回目）
 
 4つのセクシーポイントは全部ほぼ隣接していますが、メンバー/シーンごとにMV時系列順で細かくいきます♪
 
-### Zone2-1：全員バック&勝利
+### Zone2-1：Office Max裏のアート（勝利くん&5人バック）
+
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1858.6818939681655!2d-157.86049091610244!3d21.29663708053402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e08621c0b81%3A0x364567aa344ac5d9!2sOfficeMax!5e0!3m2!1sja!2sjp!4v1514591575654" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+- 0:25他：勝利君バック（ブラックの火山のアート）
+- 0:29他：5人バック（空と車のアート）
+
+がここです（現在は塗り替えられて別のアートになっています。）
+
+Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウアヒ・ストリートをMini of Hawaii側にまっすぐ行くと分かりやすい（メイキングで一瞬"Office Max"の文字が写っているので参考に。）
+
+2つ別のアートのようで、実はひと続きになったアートです。今はこんな感じになっています。
+
+<figure>
+    <img src="/images/hawaii/kakaako_shori_2.jpg" />
+    <figcaption>
+        壁に向かって左が勝利くんの。立ち位置は"NO PARKING"を目印に。<br>
+        Ready for the party now?♪
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_1.jpg" />
+    <figcaption>
+        向かって右。向こうに少しOffice Maxの赤い文字が見えます。<br>
+        Do you wanna party now?♪♪
+    </figcaption>
+</figure>
+
+駐車場なので車がとまっていて少し見づらいかも🚘
+
+### Zone2-2：カワイアハオ・ミニ・パーク（風磨くんバック）
+
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.008961199592!2d-157.8585046530971!3d21.299725714963696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006de21cff92c3%3A0x5948a585005fa34f!2z44Kr44Ov44Kk44Ki44OP44Kq44O744Of44OL44O744OR44O844Kv!5e0!3m2!1sja!2sjp!4v1514592958949" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+- 0:27他：風磨くんバック（オレンジ、ピンク、イエローのカラフルなアート）
+
+小さな公園の隅っこの壁です。塗り替えられていたけど、少しだけまだ面影があった💜
+
+<figure>
+    <img src="/images/hawaii/kakaako_fuma_3.jpg" />
+    <figcaption>
+        同じアーティストさんのアートかな？
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_fuma_0.jpg" />
+    <figcaption>
+        We are gonna show you how!♪
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="/images/hawaii/kakaako_fuma_5.jpg" />
+    <figcaption>
+        ヨガ教室が開催されていた・・・！
+    </figcaption>
+</figure>
+
+### Zone2-3：ABC Stoere Corporate Officeの向かい（マリ&ケンティーバック）
+
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1318.743658229246!2d-157.85857720817543!3d21.29770243854509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e083482da4f%3A0x4a4976df67f1bf8c!2zQUJDIOOCueODiOOCog!5e0!3m2!1sja!2sjp!4v1514594338141" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+- 0:28他：健人くんバック（ブルーとホワイトのぐるぐるみたいなアート）
+- 0:32他：マリウスバック（ピンクの女の子のアート）
+
+マップのABC Store Corporate Officeを目印に、ポフカイナ・ストリートを挟んで向かい側に２つ並んでいます。
+
+左側のマリウスバックのアートは完全に残っていた💛（Googleストリートビューでも確認できる！(2017年12月現在)）
+
+<figure>
+    <img src="/images/hawaii/kakaako_mari_2.jpg" />
+    <figcaption>
+        左にマリ、右に健人くんのアート（があった壁）
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_mari_1.jpg" />
+    <figcaption>
+        この手の前がマリウスが歌っていたところ<br>
+        show you how♪のとこのマリの手の動きかわいすぎやしないか…！
+    </figcaption>
+</figure>
+
+健人くんバックのアートは完全に別のものになっていました💙残念セクシー・・・😢🥀
+
+<figure>
+    <img src="/images/hawaii/kakaako_kento_2.jpg" />
+    <figcaption>
+        しかし場所は完全ここ（メイキングで特定。）<br>
+    </figcaption>
+</figure>
+
+綺麗な心の目で見つめていると元のアートが見えてくる(かもしれません。セクガルならできる。)
+
+### Zone2-3：聡ちゃん&5人で行進バック
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
+- 0:27他：風磨くんバック（オレンジ、ピンク、イエローのカラフルなアート）
 
-### Zone2-2：マリ&ケンティー
 
-<p class="aspect-ratio aspect-ratio--4x3">
-<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</p>
 
-### Zone2-3：聡&全員歩くとこ
-
-<p class="aspect-ratio aspect-ratio--4x3">
-<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</p>
-
-### Zone2-4：風磨
-
-<p class="aspect-ratio aspect-ratio--4x3">
-<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</p>
 
 このZoneのセクシーポイントは以上です🌹
 
