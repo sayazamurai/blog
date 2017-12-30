@@ -550,46 +550,75 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 7時45分(＊)から[ヒルトンのビーチで花火を見る](https://allabout.co.jp/gm/gc/415594/)🎆
 （＊5～8月は金曜8時頃から）
 
-というコースも可能です（おすすめ❣️）
+というコースも可能です（私はそうしました😉おすすめ❣️）
 
 <a name="5"></a>
 
-## Zone5：キングスビレッジ
+## Zone5：キングスヴィレッジ
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d595.431236113196!2d-157.82547696929487!3d21.276900424954615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c00727659dbe8d1%3A0x708e02b3457bcbcc!2sKing%E2%80%99s+Village+Shops!5e0!3m2!1sja!2sjp!4v1514602667819" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
--
+- 3:13：夜のストリートを5人で歩くシーン
+
+はここです。5人の歩いたセクシーストリートはRock Island Cafeを右手に歩道をまっすぐ→ABCストアを左手に見て右折→ABCストアを背にサブウェイまでまっすぐ。
 
 <figure>
-    <img src="/images/hawaii/kakaako_g_3.jpg" />
+    <img src="/images/hawaii/zone5_map.png" />
     <figcaption>
-        行進のところ。メイキング何回見たか…！
-    </figcaption>
-</figure>
-<figure>
-    <img src="/images/hawaii/kakaako_g_4.jpg" />
-    <figcaption>
-        かなり横に長い！
-    </figcaption>
-</figure>
-<figure>
-    <img src="/images/hawaii/kakaako_g_7.jpg" />
-    <figcaption>
+        セクシーストリート🥀（と個人的に命名）
     </figcaption>
 </figure>
 
+<figure>
+    <img src="/images/hawaii/kings_village_2.jpg" />
+    <figcaption>
+        セクシースタート地点（Rock Island Cafeの前）
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kings_village_3.jpg" />
+    <figcaption>
+        セクシー曲がり角（ABCストアーを背に右折）
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kings_village_4.jpg" />
+    <figcaption>
+        セクシーゴール地点（サブウェイの前）
+    </figcaption>
+</figure>
 
-Rock Island Cafeからサブウェイまでの道
-しょりけんの漫才のPublic Parking前（メイキング）
-最後に車に乗り込んだPublic Parking前(メイキング)
+メイキングで
+
+- しょりけんが感動的な漫才をやっていたところ（尊い）
+- 最後に車に乗り込んだところ
+
+はIsland Rock Cafeに向かって右手側、King's Alley Public Parkingの出入り口前です。
+
+<figure>
+    <img src="/images/hawaii/kings_village_1.jpg" />
+    <figcaption>
+        青い看板が目印。<br>駐車場なので車の出入りに注意！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kings_village_5.jpg" />
+    <figcaption>
+        しょりけんの尊い漫才を思い出しながら
+    </figcaption>
+</figure>
+
+しょりけんの漫才が尊すぎてつらい。つらい。尊い。
 
 <a name="6"></a>
 
 ## Zone6：オープンカーのドライブコース
 
+最後にもってきてみました。すべてのセクガルが運転するふまけんの横顔にわなないたというあの黄色いオープンカーのドライブシーンです🚖
 
+まずは健人くん&しょりマリのチーム。
 
 <figure>
     <img src="/images/hawaii/kakaako_g_3.jpg" />
