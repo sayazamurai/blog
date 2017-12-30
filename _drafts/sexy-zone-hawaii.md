@@ -5,15 +5,15 @@ image: "/images/hawaii/kakaako_so_1.jpg"
 
 3年後には時代が追いついているであろう未来のトップアイドル「Sexy Zone」がこの世にその尊い名を受けてから早6余年の月日が経ちました。
 
-東京の片隅の小さな小さな吾輩の部屋の中でプチビッグバンが起こったあの日からは4年。
+東京の片隅の小さな小さな[吾輩の部屋](http://www.ntv.co.jp/wagaheya/)でプチビッグバンが起こったあの日からは4年。
 
 Sexy Zoneという大きな光に、私のハートの小指の爪の先程の何かが触れたその瞬間、小さな閃光とともに
 
 「彼らは東京オリンピック開催の頃には日本語の"セクシー"の概念を変え、ジャニーズの揺るぎない財務基盤を支えるトップアイドルになっている」
 
-という未来が（私の中で）形作られた、"あの日"。
+という未来が（個人的に）形作られた、"あの日"。
 
-その日から「Sexy Zoneって、つまり何なのだ・・・」ともはや哲学的とも言える問いを抱えて生きること数年。
+あの日から「Sexy Zoneって、つまり何なのだ・・・」ともはや哲学的とも言える問いを抱えて生きること数年。
 
 その間にも「コンサートはデートだから！」というラブ・ケンティー先生の名言に心はじわじわと侵食され、気がづけばその「デート」たるものに馳せ参じ、「恥も外聞も捨てて、この新しいAgeの行く末を見届けよう」と決めたあの名古屋の情事から6ヶ月。
 
@@ -57,7 +57,7 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
 
 ダウンタウン・チャイナタウンは、ワイキキから北の方にバスで40分ほどのエリア🚌今回のロケ地の中で一番ワイキキから遠い。
 
-ハワイの公共バス"The Bus"を使うと往復5ドルで行けます。行き方&バスの乗り方は[こちらのサイト](http://www.hawaiiscoop.com/?p=852)が超詳しい（丸投げ）。夜は治安があまりよくないので、必ず日中に行ってね！
+ハワイの公共バス"The Bus"を使うとワイキキから往復5ドルで行けます。行き方&バスの乗り方は[こちらのサイト](http://www.hawaiiscoop.com/?p=852)が超詳しい（丸投げ）。夜は治安があまりよくないので、必ず日中に行ってね！
 
 このゾーンでチェックすべきセクシーポイント（※撮影場所）は6つ。MVで出てくる時系列順に追います。
 
@@ -251,6 +251,13 @@ Zone1のダウンタウン・チャイナタウンとワイキキの間にある
 
 4つのセクシーポイントは全部ほぼ隣接していますが、メンバー/シーンごとにMV時系列順で細かくいきます♪
 
+<figure>
+    <img src="/images/hawaii/kakaako_map_2.jpg" />
+    <figcaption>
+        メンバー/シーンごとの各アートの場所💕
+    </figcaption>
+</figure>
+
 ### Zone2-1：Office Max裏のアート（勝利くん&5人バック）
 
 <p class="aspect-ratio aspect-ratio--4x3">
@@ -313,7 +320,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
     </figcaption>
 </figure>
 
-### Zone2-3：ABC Stoere Corporate Officeの向かい（マリ&ケンティーバック）
+### Zone2-3：ABC Stoere Corporate Officeの向かい（マリ&健人くんバック）
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1318.743658229246!2d-157.85857720817543!3d21.29770243854509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e083482da4f%3A0x4a4976df67f1bf8c!2zQUJDIOOCueODiOOCog!5e0!3m2!1sja!2sjp!4v1514594338141" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -322,7 +329,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 - 0:28他：健人くんバック（ブルーとホワイトのぐるぐるみたいなアート）
 - 0:32他：マリウスバック（ピンクの女の子のアート）
 
-マップのABC Store Corporate Officeを目印に、ポフカイナ・ストリートを挟んで向かい側に２つ並んでいます。
+ポフカイナ・ストリートとコウラ・ストリートの交差点。行くときはマップのABC Store Corporate Officeを目印に。建物を背に、ポフカイナ・ストリートを挟んで向かい側に２つ並んでいます。
 
 左側のマリウスバックのアートは完全に残っていた💛（Googleストリートビューでも確認できる！(2017年12月現在)）
 
@@ -351,13 +358,16 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 
 綺麗な心の目で見つめていると元のアートが見えてくる(かもしれません。セクガルならできる。)
 
-### Zone2-3：聡ちゃん&5人で行進バック
+### Zone2-3：Office MaxとPacific Homeの間（聡ちゃん&5人で行進バック）
 
 <p class="aspect-ratio aspect-ratio--4x3">
-<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2385.7441783864247!2d-157.86356821209273!3d21.310745912766148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e736e4b42e5%3A0x514dd39e7205a281!2z44Ki44Oh44Oq44Kr5ZCI6KGG5Zu9IOODj-ODr-OCpOW3niDjg5vjg47jg6vjg6sg44OA44Km44Oz44K_44Km44Oz!5e0!3m2!1sja!2sjp!4v1514548196982" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1035.3724134177896!2d-157.86043050944292!3d21.296715670704213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006de2f0faad5d%3A0x14df0e1ca1eec3ab!2sPacific+Home!5e0!3m2!1sja!2sjp!4v1514599221193" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
-- 0:27他：風磨くんバック（オレンジ、ピンク、イエローのカラフルなアート）
+- 0:31他：聡ちゃんバック（カラフル&ポップなキャラクターのアート）
+
+
+
 
 
 
