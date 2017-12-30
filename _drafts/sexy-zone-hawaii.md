@@ -47,7 +47,7 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
 1. [ダウンタウン・チャイナタウン](#1)
 2. [カカアコ](#2)
 3. [カピオラニパーク](#3)
-4. [ホテル ザ・モダン・ホノルル](#4)
+4. [ホテル ザ モダン ホノルル](#4)
 5. [キングスヴィレッジ](#5)
 6. [オープンカーのドライブコース](#6)
 
@@ -352,7 +352,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 <figure>
     <img src="/images/hawaii/kakaako_kento_2.jpg" />
     <figcaption>
-        しかし場所は完全ここ（メイキングで特定。）<br>
+        しかし場所は完全にここ（メイキングで特定。）<br>
     </figcaption>
 </figure>
 
@@ -365,18 +365,49 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 </p>
 
 - 0:31他：聡ちゃんバック（カラフル&ポップなキャラクターのアート）
+- 2:35他：5人で行進しているシーンのバック（ブルー＆ブラウンの恐竜(?)みたいなアート）
 
+ここは少し分かりづらいかも。Zone2-1のMini of HawaiiとOffice Maxの間の道（コウラ・ストリート）をまっすぐ行くと、右手側、Pacific Homeの壁にアートの左端が見えます。それを目印にOffice MaxとPacific Homeの間の小道を入って行ってください。
 
+聡ちゃんのアートはOffice Maxの壁側に、5人行進のアート（かなり横に長い！）はPacific Homeの壁側に、それぞれ向かい合ってあるよ。
 
+<figure>
+    <img src="/images/hawaii/kakaako_so_3.jpg" />
+    <figcaption>
+        白い雲みたいなキャラクターが立ち位置の目印💚
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_so_1.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
 
+私が行った時は、聡ちゃんのは完全に残っていて、5人行進のは少し塗り替えられていたけどベースの背景などはほとんど残っていました♪
 
+<figure>
+    <img src="/images/hawaii/kakaako_g_3.jpg" />
+    <figcaption>
+        行進のところ。メイキング何回見たか…！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_4.jpg" />
+    <figcaption>
+        かなり横に長い！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_7.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
 
+このゾーンのセクシーポイントは以上です🌹
 
-このZoneのセクシーポイントは以上です🌹
+ダウンタウンとカカアコの間に、特典映像で5人も行っていた「カメハメハ大王像」があるので、途中で寄ってみてもよいかも🌴
 
-ダウンタウンとカカアコの間に、特典映像でSexy Zoneの5人も行っていた「カメハメハ大王像」があるので、途中で寄ってみてもよいかも🌴
-
-そして「塗り替え」といえば・・・！！！
+そして「塗り替え」といえば・・・❣️🎨
 Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春のツアー！！FCに入るなら今しかない！！！！！
 
 [![https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg](https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg)](https://www.amazon.co.jp/XYZ-repainting-%E9%80%9A%E5%B8%B8%E7%9B%A4-Sexy-Zone/dp/B078HT8CGY)
@@ -384,21 +415,121 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 <a name="3"></a>
 
 ## Zone3：カピオラニパーク
-Kapiolani Park Bandstand
-しょりけんの教習所漫才（メイキング）
-勝利とマリが歩いてた道（メイキング）
-海のポール（勝利）（メイキング）
-海の全員で写真撮った台（メイキング）
+
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3718.071198892185!2d-157.82308418544287!3d21.268649084922224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c00727aa14d27c9%3A0xaaa304e328e043ef!2sKapiolani+Park+Bandstand!5e0!3m2!1sja!2sjp!4v1514601176968" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+- 1:47他：5人が黄色いスポーツカーの上で歌ってる公園のシーン
+
+は「カピオラニパーク」という有名な公園。ワイキキビーチから歩いて行けます。
+
+撮影場所はマップの「Kapiolani Park Bandstand」を目印に（5人のバックに写っている茶色い小屋みたいのがそれです。）
+
+<figure>
+    <img src="/images/hawaii/park_4.jpg" />
+    <figcaption>
+        熱いくらい目と目重なって♪（のところ好きすぎる）
+    </figcaption>
+</figure>
+
+清い心の目で見ると黄色いスポーツカーが見えてくる（かもしれない。）この建物、MVでは扉が空いていますが、普段は閉まっていることが多いみたい。
+
+### パーク番外篇
+
+メイキングの
+- しょりけん教習所漫才
+
+もここですね♪これが好きすぎてリピしすぎてつらい。
+
+さらにメイキングで
+- しょりマリが海に向かって歩いていた小道（Kapiolani Park Bandstandのところから見えます）
+
+<figure>
+    <img src="/images/hawaii/park_road_3.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
+
+- 海に着いて勝利くんがまわっていたポール
+- マリウスが「カニがいるよ〜」とか言いながら歩いていた&5人で写真を撮っていた海の高台
+
+<figure>
+    <img src="/images/hawaii/park_sea_3.jpg" />
+    <figcaption>
+        奥の方。私も念のためまわっておきました
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/park_sea_4.jpg" />
+    <figcaption>
+        本当にカニがめちゃくちゃいた
+    </figcaption>
+</figure>
+
+にもぜひ♪Kapiolani Park Bandstandから小道を通って、まっすぐビーチに向かって歩いてね。
 
 <a name="4"></a>
 
-## Zone4：ホテル ザ・モダン・ホノルル
+## Zone4：ホテル ザ モダン ホノルル
+
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3717.6584842648263!2d-157.84134068544253!3d21.2849819843585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006df426c48b63%3A0xaea4e77ba1190dad!2z44K2IOODouODgOODsyDjg5vjg47jg6vjg6s!5e0!3m2!1sja!2sjp!4v1514602582137" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+-
+
+<figure>
+    <img src="/images/hawaii/kakaako_g_3.jpg" />
+    <figcaption>
+        行進のところ。メイキング何回見たか…！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_4.jpg" />
+    <figcaption>
+        かなり横に長い！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_7.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
+
+
 ラウンジ The Study
 車に乗る前、カカアコ行く前（メイキング）
 
 <a name="5"></a>
 
 ## Zone5：キングスビレッジ
+
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d595.431236113196!2d-157.82547696929487!3d21.276900424954615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c00727659dbe8d1%3A0x708e02b3457bcbcc!2sKing%E2%80%99s+Village+Shops!5e0!3m2!1sja!2sjp!4v1514602667819" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+-
+
+<figure>
+    <img src="/images/hawaii/kakaako_g_3.jpg" />
+    <figcaption>
+        行進のところ。メイキング何回見たか…！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_4.jpg" />
+    <figcaption>
+        かなり横に長い！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_7.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
+
+
 Rock Island Cafeからサブウェイまでの道
 しょりけんの漫才のPublic Parking前（メイキング）
 最後に車に乗り込んだPublic Parking前(メイキング)
@@ -406,6 +537,28 @@ Rock Island Cafeからサブウェイまでの道
 <a name="6"></a>
 
 ## Zone6：オープンカーのドライブコース
+
+
+
+<figure>
+    <img src="/images/hawaii/kakaako_g_3.jpg" />
+    <figcaption>
+        行進のところ。メイキング何回見たか…！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_4.jpg" />
+    <figcaption>
+        かなり横に長い！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/kakaako_g_7.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
+
+
 健人&しょりマリの道
 風磨&聡の道
 アクア アロハ サーフ ワイキキ ホテル
