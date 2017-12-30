@@ -616,40 +616,122 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 
 ## Zone6：オープンカーのドライブコース
 
-最後にもってきてみました。すべてのセクガルが運転するふまけんの横顔にわなないたというあの黄色いオープンカーのドライブシーンです🚖
+最後にもってきてみました。すべてのセクガルが、運転するふまけんの横顔にわなないたというあの黄色いオープンカーのドライブシーンです🚖
 
-まずは健人くん&しょりマリのチーム。
+メイキングもあわせてセクシードライビングコース（勝手に命名）を検証しました。
+健人くん&しょりマリチームのセクシードライビングコース（予測）はこちら💙❤️💛
 
 <figure>
-    <img src="/images/hawaii/kakaako_g_3.jpg" />
+    <img src="/images/hawaii/zone6_map_1.png" />
     <figcaption>
-        行進のところ。メイキング何回見たか…！
     </figcaption>
 </figure>
+
+①カピオラニパークのKapiolani Park Bandstandからスタート(？)
+↓
+②パキ・アベニューを直進、メイキングで勝利くんが立つポイントを通過
+
 <figure>
-    <img src="/images/hawaii/kakaako_g_4.jpg" />
+    <img src="/images/hawaii/drive_9_1.jpg" />
     <figcaption>
         かなり横に長い！
     </figcaption>
 </figure>
 <figure>
-    <img src="/images/hawaii/kakaako_g_7.jpg" />
+    <img src="/images/hawaii/drive_9_1.jpg" />
+    <figcaption>
+        かなり横に長い！
+    </figcaption>
+</figure>
+
+↓
+③アラ・ワイ・ブールバードを直進してアクア アロハ サーフ ワイキキ ホテルの角を左折
+
+<figure>
+    <img src="/images/hawaii/drive_9_1.jpg" />
+    <figcaption>
+        かなり横に長い！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/drive_9_1.jpg" />
     <figcaption>
     </figcaption>
 </figure>
 
+↓
+④ハイアットリージェンシー ワイキキの前を通過、左折
 
-健人&しょりマリの道
-風磨&聡の道
-アクア アロハ サーフ ワイキキ ホテル
-ハイアットリージェンシー ワイキキビーチ リゾート&スパ(メイキング)
-風磨くんが乗り込むところザ モダン ホノルル(メイキング）
+<figure>
+    <img src="/images/hawaii/drive_9_1.jpg" />
+    <figcaption>
+        かなり横に長い！
+    </figcaption>
+</figure>
 
-Bluenote
+↓
+⑤モンサラット・アベニューを通って公園に帰還(？)
 
+スタートとゴールの地点は自信が無い…が、健人くんが運転前後の感想を述べているシーンから推測しました🤔🚖
 
+続いて、風磨くん&聡ちゃんチーム💜💚こちらは予測が難しく全コースの特定ができませんでした…（どなたかお助けを！😣）が、確実にドライブしたと言えるコースはこちらです🥀🚖
 
+<figure>
+    <img src="/images/hawaii/zone6_map_2.png" />
+    <figcaption>
+    </figcaption>
+</figure>
 
+①ザ モダン ホノルル前から乗車、スタート。カラカウア・アベニューを通ってワイキキ方面へ
 
+<figure>
+    <img src="/images/hawaii/drive_sc_1.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/drive_sc_2.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
 
+↓
+②ワイキキ・ウォールのとろこまで直進
 
+<figure>
+    <img src="/images/hawaii/drive_sc_3.jpg" />
+    <figcaption>
+    </figcaption>
+</figure>
+
+…どこかでアラ・ワイ・ブールバード側へ左折？
+
+③アラ・ワイ・ブールバードを直進してアクア アロハ サーフ ワイキキ ホテルの角を左折
+
+<figure>
+    <img src="/images/hawaii/drive_9_1.jpg" />
+    <figcaption>
+        ハデ目にBreak it down♪のところはアラ・ワイ・ブールバード、角の少し手前
+    </figcaption>
+</figure>
+
+健人くんチームも風磨くんチームもアクア アロハ サーフ ワイキキ ホテルの角を左折しているので、この角をセクシーコーナーと命名することに（個人的に）決定した。
+
+世界のみなさん、ここが、セクシーコーナーです💜💙🌹
+
+<figure>
+    <img src="/images/hawaii/drive_9_1.jpg" />
+    <figcaption>
+        ハデ目にBreak it down♪のところはアラ・ワイ・ブールバード、角の少し手前
+    </figcaption>
+</figure>
+
+以上がRock Tha Town MVの全ロケ地でした！ご意見、ご感想、ご指摘はぜひ[ツイッター](http://twitter.com/sayajewels)まで🥀
+
+ここまで長々と読んでくださったセクガル・セクボさん、ありがとうございます。セクガル・セクボさんじゃない方、あなたは今この瞬間から立派なセクガル・セクボです。胸を張ってハワイに旅立ってください。
+
+Sexy Zoneの記念すべき5回目の紅白歌合戦出場を祝して、本日2017年大晦日、この記事を公開しました。2018年がSexy Zone、そしてすべてのセクガル・セクボにとって輝かしい年となりますように。というかそうなることはすでに決まっている。
+
+そして最後に、すべてのロケ地の検証と特定に、偉大なる知恵と労力を惜しみなく投資してくれた特定班様に最大限の感謝を込めて・・・
+**S・T・Y！！！！！！！**❤️
+**
