@@ -61,6 +61,13 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
 
 このゾーンでチェックすべきセクシーポイント（※撮影場所）は6つ。MVで出てくる時系列順に追います。
 
+<figure>
+    <img src="/images/hawaii/zone1_map.png" />
+    <figcaption>
+       ピンクの丸がこのゾーンのセクシーポイント🥀
+    </figcaption>
+</figure>
+
 ### Zone1-1：Fort St.Mall Satellite City Hallの階段
 
 MVの
@@ -200,7 +207,7 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
     </figcaption>
 </figure>
 
-### Zone1_5：Legal Aid Society of Hawaiiの前の道(勝利・聡・マリ)
+### Zone1_6：Legal Aid Society of Hawaiiの前の道(勝利・聡・マリ)
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3358.352175732736!2d-157.86311311932522!3d21.309474772352875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e737fc90b6b%3A0xa916c7f2f2daa94!2sLegal+Aid+Society+of+Hawaii!5e0!3m2!1sja!2sjp!4v1514556935587" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -252,7 +259,7 @@ Zone1のダウンタウン・チャイナタウンとワイキキの間にある
 4つのセクシーポイントは全部ほぼ隣接していますが、メンバー/シーンごとにMV時系列順で細かくいきます♪
 
 <figure>
-    <img src="/images/hawaii/kakaako_map_2.jpg" />
+    <img src="/images/hawaii/zone2_map.png" />
     <figcaption>
         メンバー/シーンごとの各アートの場所💕
     </figcaption>
@@ -424,7 +431,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 
 は「カピオラニパーク」という有名な公園。ワイキキビーチから歩いて行けます。
 
-撮影場所はマップの「Kapiolani Park Bandstand」を目印に🏛（5人のバックに写っている茶色い小屋みたいのがそれです。）
+撮影場所はマップの「Kapiolani Park Bandstand」を目印に🏛（5人のバックに写っている茶色い小屋みたいのがそれです。）撮影はモンサラット・アベニュー側からのアングルで🎥💕
 
 <figure>
     <img src="/images/hawaii/park_4.jpg" />
@@ -477,29 +484,73 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3717.6584842648263!2d-157.84134068544253!3d21.2849819843585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006df426c48b63%3A0xaea4e77ba1190dad!2z44K2IOODouODgOODsyDjg5vjg47jg6vjg6s!5e0!3m2!1sja!2sjp!4v1514602582137" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
--
+- 2:34他：ラウンジのシーン
+
+これはホテル「ザ モダン ホノルル」の1階にある"The Study"というバーラウンジの中です([公式サイト](http://www.themodernhonolulu.jp/the-study.htm)
+)
+。ワイキキビーチから歩いて数分。近くにアラモアナ・センターがあるよ。
+
+ホテルのエントランスから入って、右手側にレセプション（フロント）が、左手側にこのラウンジの入り口があります。
+
+が、この入り口の扉、大きな本棚のようになっており、オープン時間になると本棚がぐるっと回転して入り口が現れる仕組み（分かりにくくてすみません！）クローズ中は本棚が裏を向いて隠されているので、一見奥にラウンジがあることが分かりません。
 
 <figure>
-    <img src="/images/hawaii/kakaako_g_3.jpg" />
+    <img src="/images/hawaii/mh_5.jpg" />
     <figcaption>
-        行進のところ。メイキング何回見たか…！
+        ホテルのレセプション。メイキングで写っていたのと一致。
     </figcaption>
 </figure>
 <figure>
-    <img src="/images/hawaii/kakaako_g_4.jpg" />
+    <img src="/images/hawaii/mh_6.jpg" />
     <figcaption>
-        かなり横に長い！
+        ラウンジ"The Study"の入り口。オープン時間まで隠されている（写真はオープンしたところ）
+    </figcaption>
+</figure>
+
+オープンは午後6時。月曜、火曜は定休日のようなので注意❗6時〜8時はハッピーアワーでお得に楽しめます🍹♪お酒を飲む場所なので、念のためパスポートを持って行くと安心（私はチェックされなかった）。
+
+5人が座っていたソファはラウンジに入って奥のカウンター右手側。オープンと同時に入ったので運良く同じソファに通してもらえました😍🍸
+
+<figure>
+    <img src="/images/hawaii/mh_7.jpg" />
+    <figcaption>
+        5人が座っていたソファ💗
+    </figcaption>
+</figure>
+
+誰もいなかったのでソファの写真を撮りまくりましたが、店員さんに不思議な生き物を見るような目で見られるのでその点は注意です。
+
+<figure>
+    <img src="/images/hawaii/mh_8.jpg" />
+    <figcaption>
+        同じポーズをしてみる。
     </figcaption>
 </figure>
 <figure>
-    <img src="/images/hawaii/kakaako_g_7.jpg" />
+    <img src="/images/hawaii/mh_9.jpg" />
     <figcaption>
+        ノンアルコールのカクテルもあるよ🍸（店員さんに聞くと教えてくれます♪）
     </figcaption>
 </figure>
 
+ハッピーアワーのメニューは[こちら](https://www.themodernhonolulu.com/the-study-menu#happy_hour)
+。チップも含めて$20程あれば安心です。5人が飲んでいたのと同じトロピカルジュースはハッピーアワーのメニューにはありません。残念セクシー🍹😯
 
-ラウンジ The Study
-車に乗る前、カカアコ行く前（メイキング）
+メイキングの
+- 風磨くんたちが車に乗るところ
+- カカアコに行く前
+
+もこのホテルのエントランスから出発しています。5人ここに泊まっていたのかな🤔
+
+未成年のセクガルさんは、ラウンジに行く時は大人の方とご一緒に。
+
+すぐ近くにヒルトン ハワイアン ビレッジ ワイキキ ビーチ リゾートがあるので、金曜日なら
+
+6時少し前にロビーで待機しThe Studyオープンと同時に入店、お客さんがいない間にソファを確保しハッピーアワー（と記念撮影）を楽しむ→
+7時45分(＊)から[ヒルトンのビーチで花火を見る](https://allabout.co.jp/gm/gc/415594/)🎆
+（＊5～8月は金曜8時頃から）
+
+というコースも可能です（おすすめ❣️）
 
 <a name="5"></a>
 
