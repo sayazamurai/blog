@@ -424,7 +424,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 
 は「カピオラニパーク」という有名な公園。ワイキキビーチから歩いて行けます。
 
-撮影場所はマップの「Kapiolani Park Bandstand」を目印に（5人のバックに写っている茶色い小屋みたいのがそれです。）
+撮影場所はマップの「Kapiolani Park Bandstand」を目印に🏛（5人のバックに写っている茶色い小屋みたいのがそれです。）
 
 <figure>
     <img src="/images/hawaii/park_4.jpg" />
@@ -440,7 +440,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 メイキングの
 - しょりけん教習所漫才
 
-もここですね♪これが好きすぎてリピしすぎてつらい。
+もここですね💙❤️これが好きすぎてリピしすぎてつらい。
 
 さらにメイキングで
 - しょりマリが海に向かって歩いていた小道（Kapiolani Park Bandstandのところから見えます）
@@ -463,11 +463,11 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 <figure>
     <img src="/images/hawaii/park_sea_4.jpg" />
     <figcaption>
-        本当にカニがめちゃくちゃいた
+        本当にカニがめちゃくちゃいた🦀
     </figcaption>
 </figure>
 
-にもぜひ♪Kapiolani Park Bandstandから小道を通って、まっすぐビーチに向かって歩いてね。
+にもぜひ♪Kapiolani Park Bandstandから小道を通って、まっすぐビーチに向かって歩いてね🏖
 
 <a name="4"></a>
 
