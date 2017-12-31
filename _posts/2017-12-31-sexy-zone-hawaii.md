@@ -436,7 +436,7 @@ Mini of Hawaiiの裏の駐車場の壁。Office Maxを右手に、アウアヒ�
 
 Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repainting"2018年2月14日発売**＆**春のツアー決定**！！[FCに入る](http://www.johnnys-net.jp/page?id=jfcJoin)なら今しかない！！！！！
 
-[![https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg](https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg)](https://www.amazon.co.jp/XYZ-repainting-%E9%80%9A%E5%B8%B8%E7%9B%A4-Sexy-Zone/dp/B078HT8CGY)
+<p><a href="https://www.amazon.co.jp/XYZ-repainting-%E9%80%9A%E5%B8%B8%E7%9B%A4-Sexy-Zone/dp/B078HT8CGY"><img src="https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX425_.jpg" alt="2018年2月14日発売！"></a></p>
 
 <a name="3"></a>
 
