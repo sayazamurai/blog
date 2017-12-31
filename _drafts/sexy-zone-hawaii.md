@@ -1,5 +1,5 @@
 ---
-title: ジャニヲタ歴20年ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Sexy Zone「Rock Tha Town」6つのロケ地巡り全記録〜"
+title: ジャニヲタ歴20年ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Se<span class="color-red-600">xy</span> Zone「Rock Tha Town」6つのロケ地巡り全記録〜"
 image: "/images/hawaii/kakaako_so_1.jpg"
 ---
 
@@ -7,13 +7,13 @@ image: "/images/hawaii/kakaako_so_1.jpg"
 
 東京の片隅の小さな小さな[吾輩の部屋](http://www.ntv.co.jp/wagaheya/)でプチビッグバンが起こったあの日からは4年。
 
-Sexy Zoneという大きな光に、私のハートの小指の爪の先程の何かが触れたその瞬間、小さな閃光とともに
+Se<span class="color-red-600">xy</span> Zoneという大きな光に、私のハートの小指の爪の先程の何かが触れたその瞬間、小さな閃光とともに
 
 **「彼らは東京オリンピック開催の頃には日本語の"セクシー"の概念を変え、ジャニーズの揺るぎない財務基盤を支えるトップアイドルになっている」**
 
 という未来が（個人的に）形作られた、"あの日"。
 
-あの日から「Sexy Zoneって、つまり何なのだ・・・」ともはや哲学的とも言える問いを抱えて生きること数年。
+あの日から「Se<span class="color-red-600">xy</span> Zoneって、つまり何なのだ・・・」ともはや哲学的とも言える問いを抱えて生きること数年。
 
 その間にも「コンサートはデートだから！」というラブ・ケンティー先生の名言に心はじわじわと侵食され、気がづけばその「デート」たるものに馳せ参じ、**「恥も外聞も捨てて、この[新しいAge](http://j-lyric.net/artist/a055cda/l026e0d.html)の行く末を見届けよう」**と決めたあの名古屋の情事から6ヶ月。
 
@@ -101,7 +101,7 @@ MVの
     </figcaption>
 </figure>
 
-この階段を登って地上に出てウォルマートを背にすると、まっすぐ先に噴水と塔が見えます⛲それを目印に建物の間の道をまっすぐ行くと、Sexy Zoneの5人が並んで歩いていたのと同じ景色を見ることができます。
+この階段を登って地上に出てウォルマートを背にすると、まっすぐ先に噴水と塔が見えます⛲それを目印に建物の間の道をまっすぐ行くと、Se<span class="color-red-600">xy</span> Zoneの5人が並んで歩いていたのと同じ景色を見ることができます。
 
 <figure>
     <img src="/images/hawaii/downtown_st_8.jpg" />
@@ -258,11 +258,11 @@ Zone1のダウンタウン・チャイナタウンとワイキキの間にある
 
 しかしロケ地の周りにはあまり人もいないしレストランも無いのでちょっとだけ注意。
 
-ウォールアートは季節ごとに塗り替えられるようで、私が行った2017年秋頃には聡マリバックのアート以外はすべて[塗り替えられていました](http://www.hawaiiscoop.com/?p=34408)😢残っていたのが聡マリとは…さすがシンメ！💚💛(※MVの撮影は2016年10月、塗替えは2017年2月)
+ウォールアートは季節ごとに塗り替えられるようで、**私が行った2017年秋頃には聡マリバックのアート以外はすべて[塗り替えられていました](http://www.hawaiiscoop.com/?p=34408)**😢残っていたのが聡マリとは…**さすがシンメ！！**💚💛<br>(＊MVの撮影は2016年10月、塗替えは2017年2月)
 
 しかし壁の前でMVを見ているだけで心の穴が埋まる気がした。ここを見つけて採用してくださったスタッフさん天才か！ありがとうございます！（2回目）
 
-4つのセクシーポイントは全部ほぼ隣接していますが、メンバー/シーンごとにMV時系列順で細かくいきます♪
+4つの<span class="color-pink-400">セクシーポイント</span>は全部ほぼ隣接していますが、メンバー/シーンごとにMV時系列順で細かくいきます♪
 
 <figure>
     <img src="/images/hawaii/zone2_map.png" />
@@ -280,23 +280,23 @@ Zone1のダウンタウン・チャイナタウンとワイキキの間にある
 - 0:25他：勝利君バック（ブラックの火山のアート）
 - 0:29他：5人バック（空と車のアート）
 
-がここです（現在は塗り替えられて別のアートになっています。）
+がここです（＊現在は塗り替えられて別のアートになっています。）
 
-Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウアヒ・ストリートをMini of Hawaii側にまっすぐ行くと分かりやすい（メイキングで一瞬"Office Max"の文字が写っているので参考に。）
+Mini of Hawaiiの裏の駐車場の壁。Office Maxを右手に、アウアヒ・ストリートをMini of Hawaii側にまっすぐ行くと分かりやすい（メイキングで一瞬"Office Max"の赤い文字が写っているので参考に。）
 
-2つ別のアートのようで、実はひと続きになったアートです。今はこんな感じになっています。
+2つ別のアートのようで、実はひと続きになったアートです🎨今はこんな感じになっています。
 
 <figure>
     <img src="/images/hawaii/kakaako_shori_2.jpg" />
     <figcaption>
-        壁に向かって左が勝利くんの。立ち位置は"NO PARKING"を目印に。<br>
+        壁に向かって左側が勝利くんのアート❤️立ち位置は"NO PARKING"を目印に。<br>
         Ready for the party now?♪
     </figcaption>
 </figure>
 <figure>
     <img src="/images/hawaii/kakaako_g_1.jpg" />
     <figcaption>
-        向かって右。向こうに少しOffice Maxの赤い文字が見えます。<br>
+        向かって右側が5人のアート🌹向こうに少しOffice Maxの赤い文字が見えます。<br>
         Do you wanna party now?♪♪
     </figcaption>
 </figure>
@@ -311,7 +311,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 
 - 0:27他：風磨くんバック（オレンジ、ピンク、イエローのカラフルなアート）
 
-小さな公園の隅っこの壁です。塗り替えられていたけど、少しだけまだ面影があった💜
+カワイアハオ・ミニ・パークという小さな公園の隅っこの壁です。塗り替えられていたけど、少しだけまだ面影があった💜
 
 <figure>
     <img src="/images/hawaii/kakaako_fuma_3.jpg" />
@@ -329,7 +329,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 <figure>
     <img src="/images/hawaii/kakaako_fuma_5.jpg" />
     <figcaption>
-        ヨガ教室が開催されていた・・・！
+        ヨガ教室が開催されていた・・・！（余談）
     </figcaption>
 </figure>
 
@@ -342,7 +342,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 - 0:28他：健人くんバック（ブルーとホワイトのぐるぐるみたいなアート）
 - 0:32他：マリウスバック（ピンクの女の子のアート）
 
-ポフカイナ・ストリートとコウラ・ストリートの交差点。行くときはマップのABC Store Corporate Officeを目印に。建物を背に、ポフカイナ・ストリートを挟んで向かい側に２つ並んでいます。
+ポフカイナ・ストリートとコウラ・ストリートの交差点とそれに続く壁。行くときはマップのABC Store Corporate Officeを目印に。建物を背に、ポフカイナ・ストリートを挟んで向かい側に２つ並んでいます。
 
 左側のマリウスバックのアートは完全に残っていた💛（Googleストリートビューでも確認できる！(2017年12月現在)）
 
@@ -365,7 +365,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 <figure>
     <img src="/images/hawaii/kakaako_kento_2.jpg" />
     <figcaption>
-        しかし場所は完全にここ（メイキングで特定。）<br>
+        しかし場所は確実にここ（メイキングで特定。）<br>
     </figcaption>
 </figure>
 
@@ -385,9 +385,14 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 聡ちゃんのアートはOffice Maxの壁側に、5人行進のアート（かなり横に長い！）はPacific Homeの壁側に、それぞれ向かい合ってあるよ。
 
 <figure>
+    <img src="/images/hawaii/kakaako_sc.png" />
+    <figcaption>
+    </figcaption>
+</figure>
+<figure>
     <img src="/images/hawaii/kakaako_so_3.jpg" />
     <figcaption>
-        白い雲みたいなキャラクターが立ち位置の目印💚
+        聡ちゃんアート💚<br>白い雲みたいなキャラクターが立ち位置の目印。
     </figcaption>
 </figure>
 <figure>
@@ -396,7 +401,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
     </figcaption>
 </figure>
 
-私が行った時は、聡ちゃんのは完全に残っていて、5人行進のは少し塗り替えられていたけどベースの背景などはほとんど残っていました♪
+私が行った時は、聡ちゃんのアートは完全に残っていて、5人行進のアートは少し塗り替えられていたけどベースの背景などはほとんど残っていました♪
 
 <figure>
     <img src="/images/hawaii/kakaako_g_3.jpg" />
@@ -407,7 +412,7 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
 <figure>
     <img src="/images/hawaii/kakaako_g_4.jpg" />
     <figcaption>
-        かなり横に長い！
+        かなり横に長い！このアートは特に見応えすごい😍
     </figcaption>
 </figure>
 <figure>
@@ -416,12 +421,19 @@ Mini of Hawaiiの裏の駐車場の壁です。Office Maxを右手に、アウ�
     </figcaption>
 </figure>
 
-このゾーンのセクシーポイントは以上です🌹
+このゾーンの<span class="color-pink-400">セクシーポイント</span>は以上です🌹
 
 ダウンタウンとカカアコの間に、特典映像で5人も行っていた「カメハメハ大王像」があるので、途中で寄ってみてもよいかも🌴
 
-そして「塗り替え」といえば・・・❣️🎨
-Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春のツアー！！FCに入るなら今しかない！！！！！
+<figure>
+    <img src="/images/hawaii/drive_6.jpg" />
+    <figcaption>
+        バスで途中下車してね♪
+    </figcaption>
+</figure>
+
+<span style="font-size: 32px">そして**「塗り替え」**といえば・・・</span>❣️🎨
+Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repainting"2018年2月14日発売**＆**春のツアー決定**！！[FCに入る](http://www.johnnys-net.jp/page?id=jfcJoin)なら今しかない！！！！！
 
 [![https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg](https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg)](https://www.amazon.co.jp/XYZ-repainting-%E9%80%9A%E5%B8%B8%E7%9B%A4-Sexy-Zone/dp/B078HT8CGY)
 
@@ -433,16 +445,16 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3718.071198892185!2d-157.82308418544287!3d21.268649084922224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c00727aa14d27c9%3A0xaaa304e328e043ef!2sKapiolani+Park+Bandstand!5e0!3m2!1sja!2sjp!4v1514601176968" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
-- 1:47他：5人が黄色いスポーツカーの上で歌ってる公園のシーン
+- 1:47他：5人が黄色いスポーツカーの上に乗って歌ってる公園のシーン
 
-は「カピオラニパーク」という有名な公園。ワイキキビーチから歩いて行けます。
+は「カピオラニパーク」という有名な公園🌳ワイキキビーチから歩いて行けます♪
 
-撮影場所はマップの「Kapiolani Park Bandstand」を目印に🏛（5人のバックに写っている茶色い小屋みたいのがそれです。）撮影はモンサラット・アベニュー側からのアングルで🎥💕
+撮影場所はマップの「Kapiolani Park Bandstand」を目印に🏛（5人のバックに写っている茶色い小屋みたいのがそれです。）モンサラット・アベニュー側からのアングルで🎥💕
 
 <figure>
     <img src="/images/hawaii/park_4.jpg" />
     <figcaption>
-        熱いくらい目と目重なって♪（のところ好きすぎる）
+        熱いくらい目と目重なって♪（のところ好きすぎる好きすぎる）
     </figcaption>
 </figure>
 
@@ -461,16 +473,17 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 <figure>
     <img src="/images/hawaii/park_road_3.jpg" />
     <figcaption>
+        小道
     </figcaption>
 </figure>
 
 - 海に着いて勝利くんがまわっていたポール
-- マリウスが「カニがいるよ〜」とか言いながら歩いていた&5人で写真を撮っていた海の高台
+- マリウスが「カニがいる〜」と言いながら歩いていた&5人で写真を撮っていた海の高台
 
 <figure>
     <img src="/images/hawaii/park_sea_3.jpg" />
     <figcaption>
-        奥の方。私も念のためまわっておきました
+        奥の方のポール。私も念のためまわっておきました🥀
     </figcaption>
 </figure>
 <figure>
@@ -480,7 +493,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
     </figcaption>
 </figure>
 
-にもぜひ♪Kapiolani Park Bandstandから小道を通って、まっすぐビーチに向かって歩いてね🏖
+にもぜひ♪Kapiolani Park Bandstandからしょりマリの小道を通って、まっすぐビーチに向かって歩いてね🏖
 
 <a name="4"></a>
 
@@ -494,11 +507,11 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 
 これはホテル「ザ モダン ホノルル」の1階にある"The Study"というバーラウンジの中です([公式サイト](http://www.themodernhonolulu.jp/the-study.htm)
 )
-。ワイキキビーチから歩いて数分。近くにアラモアナ・センターがあるよ。
+。ワイキキビーチから歩いて数分。近くにアラモアナ・センターがあるよ🏬
 
 ホテルのエントランスから入って、右手側にレセプション（フロント）が、左手側にこのラウンジの入り口があります。
 
-が、この入り口の扉、大きな本棚のようになっており、オープン時間になると本棚がぐるっと回転して入り口が現れる仕組み（分かりにくくてすみません！）クローズ中は本棚が裏を向いて隠されているので、一見奥にラウンジがあることが分かりません。
+が、**この入り口の扉、分かりづらいです！**大きな本棚のようになっていて、オープン時間になると本棚がぐるっと回転して入り口が現れる仕組み（分かりにくくてすみません！）**クローズ中は本棚が裏を向いて隠されているので、一見奥にラウンジがあることが分かりません**👀
 
 <figure>
     <img src="/images/hawaii/mh_5.jpg" />
@@ -513,7 +526,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
     </figcaption>
 </figure>
 
-オープンは午後6時。月曜、火曜は定休日のようなので注意❗6時〜8時はハッピーアワーでお得に楽しめます🍹♪お酒を飲む場所なので、念のためパスポートを持って行くと安心（私はチェックされなかった）。
+オープンは午後6時。**月曜、火曜は定休日**のようなので注意❗6時〜8時はハッピーアワーでお得に楽しめます🍹♪お酒を飲む場所なので、念のためパスポートを持って行くと安心（私はチェックされなかった）。
 
 5人が座っていたソファはラウンジに入って奥のカウンター右手側。オープンと同時に入ったので運良く同じソファに通してもらえました😍🍸
 
@@ -544,7 +557,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 
 メイキングの
 - 風磨くんたちが車に乗るところ
-- カカアコに行く前
+- カカアコの撮影に行く前
 
 もこのホテルのエントランスから出発しています。5人ここに泊まっていたのかな🤔
 
@@ -553,8 +566,8 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 すぐ近くにヒルトン ハワイアン ビレッジ ワイキキ ビーチ リゾートがあるので、金曜日なら
 
 6時少し前にロビーで待機しThe Studyオープンと同時に入店、お客さんがいない間にソファを確保しハッピーアワー（と記念撮影）を楽しむ→
-7時45分(＊)から[ヒルトンのビーチで花火を見る](https://allabout.co.jp/gm/gc/415594/)🎆
-（＊5～8月は金曜8時頃から）
+7時45分頃(＊)から[ヒルトンのビーチで花火を見る](https://allabout.co.jp/gm/gc/415594/)🎆
+<br>（＊5～8月は金曜8時頃から）
 
 というコースも可能です（私はそうしました😉おすすめ❣️）
 
@@ -568,7 +581,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 
 - 3:13：夜のストリートを5人で歩くシーン
 
-はここです。5人の歩いたセクシーストリートはRock Island Cafeを右手に歩道をまっすぐ→ABCストアを左手に見て右折→ABCストアを背にサブウェイまでまっすぐ。
+はここです。5人の歩いた**セクシーストリート**はRock Island Cafeを右手に歩道をまっすぐ→ABCストアを左手に見て右折→ABCストアを背にサブウェイまでまっすぐ。
 
 <figure>
     <img src="/images/hawaii/zone5_map.png" />
@@ -601,7 +614,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 - しょりけんが感動的な漫才をやっていたところ（尊い）
 - 最後に車に乗り込んだところ
 
-はIsland Rock Cafeに向かって右手側、King's Alley Public Parkingの出入り口前です。
+はIsland Rock Cafeに向かって右手側、King's Alley Public Parkingの出入り口前です🅿
 
 <figure>
     <img src="/images/hawaii/kings_village_1.jpg" />
@@ -612,19 +625,20 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 <figure>
     <img src="/images/hawaii/kings_village_5.jpg" />
     <figcaption>
-        しょりけんの尊い漫才を思い出しながら
+        しょりけんの尊い漫才を思い出しながら。
     </figcaption>
 </figure>
 
-しょりけんの漫才が尊すぎてつらい。つらい。尊い。
+しょりけんの漫才が尊すぎてつらい。つらい。尊い🥀
 
 <a name="6"></a>
 
 ## Zone6：オープンカーのドライブコース
 
-最後にもってきてみました。すべてのセクガルが、運転するふまけんの横顔にわなないたというあの黄色いオープンカーのドライブシーンです🚖
+最後にもってきてみました。すべてのセクガルが、**運転するふまけんの横顔にわなないたというあの<span class="color-yellow-700">黄色いオープンカーのドライブシーン</span>**です🚖
 
-メイキングもあわせてセクシードライビングコース（勝手に命名）を検証しました。
+メイキングもあわせて**セクシードライビングコース**（勝手に命名）を検証しました。
+
 健人くん&しょりマリチームのセクシードライビングコース（予測）はこちら💙❤️💛
 
 <figure>
@@ -633,20 +647,25 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
     </figcaption>
 </figure>
 
-①カピオラニパークのKapiolani Park Bandstandからスタート(？)
+①カピオラニパークのKapiolani Park Bandstand前からスタート(？)
 ↓
 ②パキ・アベニューを直進、メイキングで勝利くんが立つポイントを通過
 
 <figure>
-    <img src="/images/hawaii/drive_9_1.jpg" />
+    <img src="/images/hawaii/drive_7.jpg" />
     <figcaption>
-        かなり横に長い！
+        メイキングで後ろに走っていたオレンジのバス<br>「ワイキキトロリー」の運行ルートより場所を特定
     </figcaption>
 </figure>
 <figure>
-    <img src="/images/hawaii/drive_9_1.jpg" />
+    <img src="/images/hawaii/drive_4.jpg" />
     <figcaption>
-        かなり横に長い！
+    </figcaption>
+</figure>
+<figure>
+    <img src="/images/hawaii/drive_5.jpg" />
+    <figcaption>
+        立った時の勝利くんの真似をしてみる
     </figcaption>
 </figure>
 
@@ -654,14 +673,9 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 ③アラ・ワイ・ブールバードを直進してアクア アロハ サーフ ワイキキ ホテルの角を左折
 
 <figure>
-    <img src="/images/hawaii/drive_9_1.jpg" />
+    <img src="/images/hawaii/drive_9.jpg" />
     <figcaption>
-        かなり横に長い！
-    </figcaption>
-</figure>
-<figure>
-    <img src="/images/hawaii/drive_9_1.jpg" />
-    <figcaption>
+        アクア アロハ サーフ ワイキキ ホテル前。<br>向こうから健人くんが左折してくるイメージ😍💙
     </figcaption>
 </figure>
 
@@ -669,9 +683,9 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 ④ハイアットリージェンシー ワイキキの前を通過、左折
 
 <figure>
-    <img src="/images/hawaii/drive_9_1.jpg" />
+    <img src="/images/hawaii/drive_9_2.jpg" />
     <figcaption>
-        かなり横に長い！
+        メイキングの背景より特定🏨
     </figcaption>
 </figure>
 
@@ -693,11 +707,13 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 <figure>
     <img src="/images/hawaii/drive_sc_1.jpg" />
     <figcaption>
+        写真を撮り忘れ…Google Earthのスクリーンショットですみません…😭
     </figcaption>
 </figure>
 <figure>
     <img src="/images/hawaii/drive_sc_2.jpg" />
     <figcaption>
+        メイキングで風磨くんがセルフィーを撮っている背景にあるレッドロブスター🦐ホテルのすぐ向かい側にあります♪
     </figcaption>
 </figure>
 
@@ -707,6 +723,7 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
 <figure>
     <img src="/images/hawaii/drive_sc_3.jpg" />
     <figcaption>
+        風磨くんが運転している背景に確認できる。
     </figcaption>
 </figure>
 
@@ -721,23 +738,21 @@ Sexy Zoneのニューアルバム"XYZ=repainting"2018年2月14日発売＆春の
     </figcaption>
 </figure>
 
-健人くんチームも風磨くんチームもアクア アロハ サーフ ワイキキ ホテルの角を左折しているので、この角をセクシーコーナーと命名することに（個人的に）決定した。
+なんと、健人くんチームも風磨くんチームもアクア アロハ サーフ ワイキキ ホテルの角を左折しているので、この角をセクシーコーナーと命名することに（個人的に）決定した。
 
-世界のみなさん、ここが、セクシーコーナーです💜💙🌹
+**世界のみなさん、ここが、セクシーコーナーです**💜💙🌹
 
 <figure>
-    <img src="/images/hawaii/drive_9_1.jpg" />
+    <img src="/images/hawaii/drive_8.jpg" />
     <figcaption>
-        ハデ目にBreak it down♪のところはアラ・ワイ・ブールバード、角の少し手前
     </figcaption>
 </figure>
 
-以上がRock Tha Town MVの全ロケ地でした！ご意見、ご感想、ご指摘はぜひ[ツイッター](http://twitter.com/sayajewels)まで🥀
+以上が"Rock Tha Town"全編ハワイロケMVの全ロケ地でした😊ご意見、ご感想、ご指摘はぜひ[ツイッター](http://twitter.com/sayajewels)まで🥀
 
 ここまで長々と読んでくださったセクガル・セクボさん、ありがとうございます。セクガル・セクボさんじゃない方、あなたは今この瞬間から立派なセクガル・セクボです。胸を張ってハワイに旅立ってください。
 
-Sexy Zoneの記念すべき5回目の紅白歌合戦出場を祝して、本日2017年大晦日、この記事を公開しました。2018年がSexy Zone、そしてすべてのセクガル・セクボにとって輝かしい年となりますように。というかそうなることはすでに決まっている。
+Se<span class="color-red-600">xy</span> Zoneの記念すべき5回目の紅白歌合戦出場を祝して、本日2017年大晦日、この記事を公開しました。2018年がSe<span class="color-red-600">xy</span> Zone、そしてすべてのセクガル・セクボにとって輝かしい年となりますように。というかそうなることはすでに決まっている。
 
-そして最後に、すべてのロケ地の検証と特定に、偉大なる知恵と労力を惜しみなく投資してくれた特定班様に最大限の感謝を込めて・・・
-**S・T・Y！！！！！！！**❤️
-**
+そして最後に、すべてのロケ地の検証と特定に、偉大なる知恵と労力を惜しみなく投資してくれた特定班様に最大限の愛と感謝を込めて・・・
+<span style="font-size: 32px"><span class="color-red-600">**S・T・Y！！！！！！！**</span></span>❤️
