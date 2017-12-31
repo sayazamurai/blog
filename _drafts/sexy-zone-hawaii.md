@@ -1,5 +1,5 @@
 ---
-title: ジャニヲタ歴20年ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Se<span class="color-red-600">xy</span> Zone「Rock Tha Town」6つのロケ地巡り全記録〜"
+title: ジャニヲタ歴20年ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Sexy Zone「Rock Tha Town」6つのロケ地巡り全記録〜"
 image: "/images/hawaii/kakaako_so_1.jpg"
 ---
 
@@ -22,9 +22,9 @@ Se<span class="color-red-600">xy</span> Zoneという大きな光に、私のハ
 何だか魂(ソウル)が東の方かどっかから呼ばれた気がして…
 某公式ジャニーズウェブ・ジャニーズネットの情報の1万倍の正確性で「行くのです！」とお告げを受けた気がして…
 
-**Se<span class="color-red-600">xy</span> Zoneの第二の故郷**、そして**我らセクガルの心のふるさと**(と言っても過言ではない。おそらく)
+**Se<span class="color-red-600">xy</span> Zoneの第二の故郷**、そして**我らセクガルの心のふるさと**<span style="font-size: 14px">(と言っても過言ではない。おそらく)</span>
 
-<span style="font-size: 32px">**ハワイへ**</span>🐬🌴🏖
+<span style="font-size: 38px"><span class="color-blue-500">**ハワイ**</span>へ</span>🐬🌴🏖
 
 <figure>
     <img src="/images/hawaii/kakaako_so_1.jpg" />
@@ -39,7 +39,7 @@ Se<span class="color-red-600">xy</span> Zoneという大きな光に、私のハ
 
 この生産性皆無の莫大な時間と労力が、わずかでも、ほんのわずかでもどこかのセクガル・セクボさんの幸せに（ひいては未来の歴史の教科書の編纂に）貢献できることを祈って。<span style="font-size: 14px">ヲタクってなんでみんな同じような文章書いちゃうんだろう・・・。</span>
 
-それでは、**ハワイセクシーロードの旅、華麗にセクシースタート**🥀🏖
+それでは、<span class="color-pink-400">**ハワイセクシーロードの旅、華麗にセクシースタート**</span>🥀💕
 
 ## 目次
 
@@ -65,7 +65,7 @@ Se<span class="color-red-600">xy</span> Zoneという大きな光に、私のハ
 
 ハワイの公共バス"The Bus"を使うとワイキキから往復5ドルで行けます。行き方&バスの乗り方は[こちらのサイト](http://www.hawaiiscoop.com/?p=852)が超詳しい（丸投げ）。**夜は治安があまりよくないので、必ず日中に行ってね！**
 
-このゾーンでチェックすべき**<span class="color-pink-400">セクシーポイント</span>>（※撮影場所）**は6つ。MVで出てくる時系列順に追います♪
+このゾーンでチェックすべき**<span class="color-pink-400">セクシーポイント</span>（※撮影場所）**は6つ。MVで出てくる時系列順に追います♪
 
 <figure>
     <img src="/images/hawaii/zone1_map.png" />
@@ -117,9 +117,9 @@ MVの
     </figcaption>
 </figure>
 
-誠に勝手ながらこの通りを**北のセクシーロード**と名付けることに（個人的に）決定した。
+誠に勝手ながらこの通りを<span class="color-pink-400">**北のセクシーロード**</span>と名付けることに（個人的に）決定した。
 
-このゾーンでここだけ他の撮影場所から少し離れているので、時間に余裕がある時に行くことをおすすめします😉
+このゾーンでここだけ他の撮影場所から少し離れているので、一番最初か最後に行くことをおすすめします😉
 
 ### Zone1-2：Hawaii Theatreの前
 
@@ -289,14 +289,14 @@ Mini of Hawaiiの裏の駐車場の壁。Office Maxを右手に、アウアヒ�
 <figure>
     <img src="/images/hawaii/kakaako_shori_2.jpg" />
     <figcaption>
-        壁に向かって左側が勝利くんのアート❤️立ち位置は"NO PARKING"を目印に。<br>
+        壁に向かって左側が勝利くんのアート❤️<br>>立ち位置は"NO PARKING"を目印に。<br>
         Ready for the party now?♪
     </figcaption>
 </figure>
 <figure>
     <img src="/images/hawaii/kakaako_g_1.jpg" />
     <figcaption>
-        向かって右側が5人のアート🌹向こうに少しOffice Maxの赤い文字が見えます。<br>
+        向かって右側が5人のアート🌹<br>向こうに少しOffice Maxの赤い文字が見えます。<br>
         Do you wanna party now?♪♪
     </figcaption>
 </figure>
@@ -432,7 +432,8 @@ Mini of Hawaiiの裏の駐車場の壁。Office Maxを右手に、アウアヒ�
     </figcaption>
 </figure>
 
-<span style="font-size: 32px">そして**「塗り替え」**といえば・・・</span>❣️🎨
+<span style="font-size: 32px">そして**「塗り替え」**といえば・・・❣️🎨</span>
+
 Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repainting"2018年2月14日発売**＆**春のツアー決定**！！[FCに入る](http://www.johnnys-net.jp/page?id=jfcJoin)なら今しかない！！！！！
 
 [![https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg](https://images-na.ssl-images-amazon.com/images/I/516IuD3AIPL._SX355_.jpg)](https://www.amazon.co.jp/XYZ-repainting-%E9%80%9A%E5%B8%B8%E7%9B%A4-Sexy-Zone/dp/B078HT8CGY)
@@ -445,7 +446,7 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3718.071198892185!2d-157.82308418544287!3d21.268649084922224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c00727aa14d27c9%3A0xaaa304e328e043ef!2sKapiolani+Park+Bandstand!5e0!3m2!1sja!2sjp!4v1514601176968" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
-- 1:47他：5人が黄色いスポーツカーの上に乗って歌ってる公園のシーン
+- 1:47他：5人が黄色いスポーツカーの上に乗って歌ってるシーン
 
 は「カピオラニパーク」という有名な公園🌳ワイキキビーチから歩いて行けます♪
 
@@ -465,7 +466,7 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 メイキングの
 - しょりけん教習所漫才
 
-もここですね💙❤️これが好きすぎてリピしすぎてつらい。
+もここですね💙❤️**これが好きすぎてリピしすぎてつらい。**
 
 さらにメイキングで
 - しょりマリが海に向かって歩いていた小道（Kapiolani Park Bandstandのところから見えます）
@@ -505,7 +506,7 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 
 - 2:34他：ラウンジのシーン
 
-これはホテル「ザ モダン ホノルル」の1階にある"The Study"というバーラウンジの中です([公式サイト](http://www.themodernhonolulu.jp/the-study.htm)
+これはホテル「ザ モダン ホノルル」の1階にある**"The Study"**というバーラウンジの中です([公式サイト](http://www.themodernhonolulu.jp/the-study.htm)
 )
 。ワイキキビーチから歩いて数分。近くにアラモアナ・センターがあるよ🏬
 
@@ -548,12 +549,12 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 <figure>
     <img src="/images/hawaii/mh_9.jpg" />
     <figcaption>
-        ノンアルコールのカクテルもあるよ🍸（店員さんに聞くと教えてくれます♪）
+        ノンアルコールのカクテルもあるよ🍸<br>（店員さんに聞くと教えてくれます♪）
     </figcaption>
 </figure>
 
 ハッピーアワーのメニューは[こちら](https://www.themodernhonolulu.com/the-study-menu#happy_hour)
-。チップも含めて$20程あれば安心です。5人が飲んでいたのと同じトロピカルジュースはハッピーアワーのメニューにはありません。残念セクシー🍹😯
+。チップも含めて$20程あれば安心です💓5人が飲んでいたのと同じトロピカルジュースはハッピーアワーのメニューにはありません。残念セクシー🍹😯
 
 メイキングの
 - 風磨くんたちが車に乗るところ
@@ -581,7 +582,7 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 
 - 3:13：夜のストリートを5人で歩くシーン
 
-はここです。5人の歩いた**セクシーストリート**はRock Island Cafeを右手に歩道をまっすぐ→ABCストアを左手に見て右折→ABCストアを背にサブウェイまでまっすぐ。
+はここです。5人の歩いた<span class="color-pink-400">**セクシーストリート**</span>はRock Island Cafeを右手に歩道をまっすぐ→ABCストアを左手に見て右折→ABCストアを背にサブウェイまでまっすぐ。
 
 <figure>
     <img src="/images/hawaii/zone5_map.png" />
@@ -637,9 +638,9 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 
 最後にもってきてみました。すべてのセクガルが、**運転するふまけんの横顔にわなないたというあの<span class="color-yellow-700">黄色いオープンカーのドライブシーン</span>**です🚖
 
-メイキングもあわせて**セクシードライビングコース**（勝手に命名）を検証しました。
+メイキングもあわせて<span class="color-pink-400">**セクシードライビングコース**</span>（勝手に命名）を検証しました。
 
-健人くん&しょりマリチームのセクシードライビングコース（予測）はこちら💙❤️💛
+<span class="color-blue-500">**健人くん&しょりマリチーム**</span>のセクシードライビングコース（予測）はこちら💙❤️💛
 
 <figure>
     <img src="/images/hawaii/zone6_map_1.png" />
@@ -648,8 +649,8 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 </figure>
 
 ①カピオラニパークのKapiolani Park Bandstand前からスタート(？)
-↓
-②パキ・アベニューを直進、メイキングで勝利くんが立つポイントを通過
+<br>↓
+<br>②パキ・アベニューを直進、メイキングで勝利くんが立つポイントを通過
 
 <figure>
     <img src="/images/hawaii/drive_7.jpg" />
@@ -668,9 +669,8 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
         立った時の勝利くんの真似をしてみる
     </figcaption>
 </figure>
-
 ↓
-③アラ・ワイ・ブールバードを直進してアクア アロハ サーフ ワイキキ ホテルの角を左折
+<br>③アラ・ワイ・ブールバードを直進してアクア アロハ サーフ ワイキキ ホテルの角を左折
 
 <figure>
     <img src="/images/hawaii/drive_9.jpg" />
@@ -678,9 +678,8 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
         アクア アロハ サーフ ワイキキ ホテル前。<br>向こうから健人くんが左折してくるイメージ😍💙
     </figcaption>
 </figure>
-
 ↓
-④ハイアットリージェンシー ワイキキの前を通過、左折
+<br>④ハイアットリージェンシー ワイキキの前を通過、左折
 
 <figure>
     <img src="/images/hawaii/drive_9_2.jpg" />
@@ -688,13 +687,12 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
         メイキングの背景より特定🏨
     </figcaption>
 </figure>
-
 ↓
-⑤モンサラット・アベニューを通って公園に帰還(？)
+<br>⑤モンサラット・アベニューを通って公園に帰還(？)
 
 スタートとゴールの地点は自信が無い…が、健人くんが運転前後の感想を述べているシーンから推測しました🤔🚖
 
-続いて、風磨くん&聡ちゃんチーム💜💚こちらは予測が難しく全コースの特定ができませんでした…（どなたかお助けを！😣）が、確実にドライブしたと言えるコースはこちらです🥀🚖
+続いて、<span class="color-purple-500">**風磨くん&聡ちゃんチーム**</span>💜💚こちらは予測が難しく全コースの特定ができませんでした…（どなたかお助けを！😣）が、確実にドライブしたと言えるコースはこちらです🥀🚖
 
 <figure>
     <img src="/images/hawaii/zone6_map_2.png" />
@@ -707,7 +705,7 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 <figure>
     <img src="/images/hawaii/drive_sc_1.jpg" />
     <figcaption>
-        写真を撮り忘れ…Google Earthのスクリーンショットですみません…😭
+        写真を撮り忘れた…😭<br>Google Earthのスクリーンショットでセクシーソーリー
     </figcaption>
 </figure>
 <figure>
@@ -716,9 +714,8 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
         メイキングで風磨くんがセルフィーを撮っている背景にあるレッドロブスター🦐ホテルのすぐ向かい側にあります♪
     </figcaption>
 </figure>
-
 ↓
-②ワイキキ・ウォールのとろこまで直進
+<br>②ワイキキ・ウォールのとろこまで直進
 
 <figure>
     <img src="/images/hawaii/drive_sc_3.jpg" />
@@ -728,31 +725,32 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 </figure>
 
 …どこかでアラ・ワイ・ブールバード側へ左折？
-
-③アラ・ワイ・ブールバードを直進してアクア アロハ サーフ ワイキキ ホテルの角を左折
+<br>↓
+<br>③アラ・ワイ・ブールバードを直進してアクア アロハ サーフ ワイキキ ホテルの角を左折
 
 <figure>
     <img src="/images/hawaii/drive_9_1.jpg" />
     <figcaption>
-        ハデ目にBreak it down♪のところはアラ・ワイ・ブールバード、角の少し手前
+        ハデ目にBreak it down♪はアラ・ワイ・ブールバード、曲がる角の少し手前のところ。
     </figcaption>
 </figure>
 
-なんと、健人くんチームも風磨くんチームもアクア アロハ サーフ ワイキキ ホテルの角を左折しているので、この角をセクシーコーナーと命名することに（個人的に）決定した。
+なんと、**健人くんチームも風磨くんチームもアクア アロハ サーフ ワイキキ ホテルの角を左折している**ので、この角を<span class="color-pink-400">**セクシーコーナー**</span>と命名することに（個人的に）決定した。
 
 **世界のみなさん、ここが、セクシーコーナーです**💜💙🌹
 
 <figure>
     <img src="/images/hawaii/drive_8.jpg" />
     <figcaption>
+        全コース歩いた（走った）ので髪が乱れている
     </figcaption>
 </figure>
 
-以上が"Rock Tha Town"全編ハワイロケMVの全ロケ地でした😊ご意見、ご感想、ご指摘はぜひ[ツイッター](http://twitter.com/sayajewels)まで🥀
+以上が「Rock Tha Town」全編ハワイロケMVの全ロケ地でした😊ご意見、ご感想、ご指摘、行ってきたご報告はぜひ[ツイッター](http://twitter.com/sayajewels)まで🥀
 
 ここまで長々と読んでくださったセクガル・セクボさん、ありがとうございます。セクガル・セクボさんじゃない方、あなたは今この瞬間から立派なセクガル・セクボです。胸を張ってハワイに旅立ってください。
 
 Se<span class="color-red-600">xy</span> Zoneの記念すべき5回目の紅白歌合戦出場を祝して、本日2017年大晦日、この記事を公開しました。2018年がSe<span class="color-red-600">xy</span> Zone、そしてすべてのセクガル・セクボにとって輝かしい年となりますように。というかそうなることはすでに決まっている。
 
-そして最後に、すべてのロケ地の検証と特定に、偉大なる知恵と労力を惜しみなく投資してくれた特定班様に最大限の愛と感謝を込めて・・・
-<span style="font-size: 32px"><span class="color-red-600">**S・T・Y！！！！！！！**</span></span>❤️
+そして最後に、**すべてのロケ地の検証と特定に、偉大なる知恵と労力を惜しみなく投資してくれた特定班様に最大限の愛と感謝を込めて・・・**
+<span style="font-size: 32px"><span class="color-red-600">**S・T・Y！！！！！！！❤️**</span></span>
