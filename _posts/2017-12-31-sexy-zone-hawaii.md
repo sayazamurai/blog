@@ -15,7 +15,7 @@ Se<span class="color-red-600">xy</span> Zoneという大きな光に、私のハ
 
 あの日から「Se<span class="color-red-600">xy</span> Zoneって、つまり何なのだ・・・」ともはや哲学的とも言える問いを抱えて生きること数年。
 
-その間にも「コンサートはデートだから！」というラブ・ケンティー先生の名言に心はじわじわと侵食され、気がづけばその「デート」たるものに馳せ参じ、**「恥も外聞も捨てて、この[新しいAge](http://j-lyric.net/artist/a055cda/l026e0d.html)の行く末を見届けよう」**と決めたあの名古屋の情事から6ヶ月。
+その間にも「コンサートはデートだから！」というラブ・ケンティー先生の名言に心はじわじわと侵食され、気がづけばその「デート」たるものに馳せ参じ、**「恥も外聞も捨てて、この[新しいAge](http://j-lyric.net/artist/a055cda/l026e0d.html)の行く末を見届けよう」**と決めたあの名古屋の情事から半年。
 
 わたくし、行ってまいりました。
 
@@ -33,7 +33,7 @@ Se<span class="color-red-600">xy</span> Zoneという大きな光に、私のハ
     </figcaption>
 </figure>
 
-ハワイでは、彼らSe<span class="color-red-600">xy</span> Zoneの6年目の幕開けを飾った楽曲**"Rock Tha Town"の全編ハワイロケMV**で、**彼らが訪れている6つのエリアのロケ地**を巡🏖ってきました。まさに、ロック（6）・ザ・タウン。
+ハワイでは、彼らSe<span class="color-red-600">xy</span> Zoneの2017年の幕開けを飾った楽曲**"Rock Tha Town"の全編ハワイロケMV**で、**彼らが訪れている6つのエリアのロケ地**を巡🏖ってきました。まさに、ロック（6）・ザ・タウン。
 
 ここからはその詳細な記録を、できるだけ私情を挟まずに惜しげもなく公開することにします。
 
@@ -289,7 +289,7 @@ Mini of Hawaiiの裏の駐車場の壁。Office Maxを右手に、アウアヒ�
 <figure>
     <img src="/images/hawaii/kakaako_shori_2.jpg" />
     <figcaption>
-        壁に向かって左側が勝利くんのアート❤️<br>>立ち位置は"NO PARKING"を目印に。<br>
+        壁に向かって左側が勝利くんのアート❤️<br>立ち位置は"NO PARKING"を目印に。<br>
         Ready for the party now?♪
     </figcaption>
 </figure>
@@ -412,7 +412,7 @@ Mini of Hawaiiの裏の駐車場の壁。Office Maxを右手に、アウアヒ�
 <figure>
     <img src="/images/hawaii/kakaako_g_4.jpg" />
     <figcaption>
-        かなり横に長い！このアートは特に見応えすごい😍
+        かなり横に長い！<br>このアートは特に見応えがすごいです😍
     </figcaption>
 </figure>
 <figure>
