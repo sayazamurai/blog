@@ -33,7 +33,7 @@ Se<span class="color-red-600">xy</span> Zoneという大きな光に、私のハ
     </figcaption>
 </figure>
 
-ハワイでは、彼らSe<span class="color-red-600">xy</span> Zoneの6年目の幕開けを飾った楽曲**"Rock Tha Town"の全編ハワイロケMV**で、**彼らが訪れている6つのエリアのロケ地**を巡🏖ってきました。まさに、ロック（6）・ザ・タウン。
+ハワイでは、彼らSe<span class="color-red-600">xy</span> Zoneの2017年の幕開けを飾った楽曲**"Rock Tha Town"の全編ハワイロケMV**で、**彼らが訪れている6つのエリアのロケ地**を巡🏖ってきました。まさに、ロック（6）・ザ・タウン。
 
 ここからはその詳細な記録を、できるだけ私情を挟まずに惜しげもなく公開することにします。
 
