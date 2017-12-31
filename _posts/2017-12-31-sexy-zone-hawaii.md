@@ -705,7 +705,7 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 <figure>
     <img src="/images/hawaii/drive_sc_1.jpg" />
     <figcaption>
-        写真を撮り忘れた…😭<br>Google Earthのスクリーンショットでセクシーソーリー
+        写真を撮り忘れた…😭<br>Googleストリートビューのスクリーンショットでセクシーソーリー
     </figcaption>
 </figure>
 <figure>
