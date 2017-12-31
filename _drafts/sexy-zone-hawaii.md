@@ -1,5 +1,5 @@
 ---
-title: ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Sexy Zone「Rock Tha Town」6つのロケ地巡り全記録〜"
+title: ジャニヲタ歴20年ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Sexy Zone「Rock Tha Town」6つのロケ地巡り全記録〜"
 image: "/images/hawaii/kakaako_so_1.jpg"
 ---
 
@@ -22,9 +22,9 @@ Sexy Zoneという大きな光に、私のハートの小指の爪の先程の�
 何だか魂(ソウル)が東の方かどっかから呼ばれた気がして…
 某公式ジャニーズウェブ・ジャニーズネットの情報の1万倍の正確性で「行くのです！」とお告げを受けた気がして…
 
-Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(と言っても過言ではない。おそらく)
+**Se<span class="color-red-600">xy</span> Zoneの第二の故郷**、そして**我らセクガルの心のふるさと**(と言っても過言ではない。おそらく)
 
-**ハワイへ🌊🐬🌴**
+<span style="font-size: 32px">**ハワイへ**</span>🐬🌴🏖
 
 <figure>
     <img src="/images/hawaii/kakaako_so_1.jpg" />
@@ -33,14 +33,13 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
     </figcaption>
 </figure>
 
-ハワイでは、彼らSexy Zoneの6年目の幕開けを飾った楽曲"Rock Tha Town"の全編ハワイロケMVで、彼らが訪れている6つのエリアのロケ地を巡ってきました。まさに、ロック（6）・ザ・タウン。
+ハワイでは、彼らSe<span class="color-red-600">xy</span> Zoneの6年目の幕開けを飾った楽曲**"Rock Tha Town"の全編ハワイロケMV**で、**彼らが訪れている6つのエリアのロケ地**を巡🏖ってきました。まさに、ロック（6）・ザ・タウン。
 
 ここからはその詳細な記録を、できるだけ私情を挟まずに惜しげもなく公開することにします。
 
-この生産性皆無の莫大な時間と労力が、わずかでも、ほんのわずかでもどこかのセクガル・セクボさんの幸せに（ひいては未来の歴史の教科書の編纂に）貢献できることを祈って。
-ヲタクってなんでみんな同じような文章書いちゃうんだろう・・・。
+この生産性皆無の莫大な時間と労力が、わずかでも、ほんのわずかでもどこかのセクガル・セクボさんの幸せに（ひいては未来の歴史の教科書の編纂に）貢献できることを祈って。<span style="font-size: 14px">ヲタクってなんでみんな同じような文章書いちゃうんだろう・・・。</span>
 
-それでは、ハワイセクシーロードの旅、**華麗にセクシースタート**🥀🏖
+それでは、**ハワイセクシーロードの旅、華麗にセクシースタート**🥀🏖
 
 ## 目次
 
@@ -52,9 +51,9 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
 6. [オープンカーのドライブコース](#6)
 
 <figure>
-    <img src="/images/hawaii/xxx.png" />
+    <img src="/images/hawaii/zone_map.png" />
     <figcaption>
-       ロケ地の6つのエリア
+       "Rock Tha Town"MVロケ地の6つのエリア
     </figcaption>
 </figure>
 
@@ -66,7 +65,7 @@ Sexy Zoneの第二の故郷、そして我らセクガルの心のふるさと(�
 
 ハワイの公共バス"The Bus"を使うとワイキキから往復5ドルで行けます。行き方&バスの乗り方は[こちらのサイト](http://www.hawaiiscoop.com/?p=852)が超詳しい（丸投げ）。**夜は治安があまりよくないので、必ず日中に行ってね！**
 
-このゾーンでチェックすべき**セクシーポイント（※撮影場所）**は6つ。MVで出てくる時系列順に追います。
+このゾーンでチェックすべき**<span class="color-pink-400">セクシーポイント</span>>（※撮影場所）**は6つ。MVで出てくる時系列順に追います♪
 
 <figure>
     <img src="/images/hawaii/zone1_map.png" />
@@ -81,13 +80,13 @@ MVの
 - 0:13(※0分13秒)：地下から5人で登場
 - 0:33他：5人で並んで歩くところ
 
-はここで撮影されています。通りの向こうのウォルマートを目印に！
+はここで撮影されています。
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3704.9668625729933!2d-157.86381858589718!3d21.30856859254437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e748fe35a7f%3A0x8539a64b3e495df2!2sFort+St.+Mall+Satellite+City+Hall!5e0!3m2!1sja!2sjp!4v1514549014879" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
-なんだか地下は市の庁舎になってるみたいですが、5人が登場した階段あたりは自由に出入りできます。
+通りの向こうのウォルマートを目印に！なんだか階段の下は市の庁舎になってるみたいですが、5人が登場した階段あたりは自由に出入りできます🏤
 
 <figure>
     <img src="/images/hawaii/downtown_st_4.jpg" />
@@ -102,7 +101,7 @@ MVの
     </figcaption>
 </figure>
 
-この階段を登って地上に出てウォルマートを背にすると、まっすぐ先に噴水と塔が見えます⛲それを目印にまっすぐ歩くとSexy Zoneの5人と同じ景色を見ることができます。
+この階段を登って地上に出てウォルマートを背にすると、まっすぐ先に噴水と塔が見えます⛲それを目印に建物の間の道をまっすぐ行くと、Sexy Zoneの5人が並んで歩いていたのと同じ景色を見ることができます。
 
 <figure>
     <img src="/images/hawaii/downtown_st_8.jpg" />
@@ -118,7 +117,7 @@ MVの
     </figcaption>
 </figure>
 
-誠に勝手ながらこの通りをプチセクシーロードと名付けることに（個人的に）決定した。
+誠に勝手ながらこの通りを**北のセクシーロード**と名付けることに（個人的に）決定した。
 
 このゾーンでここだけ他の撮影場所から少し離れているので、時間に余裕がある時に行くことをおすすめします😉
 
@@ -138,7 +137,7 @@ MVの
     </figcaption>
 </figure>
 
-MVで看板が"ROCK THA TOWN"になってるのいいよね。美術さん天才か。勝利くんが歩きながらサングラスかけ直してる手つきもいいよね🕶
+MVで看板が"ROCK THA TOWN"になってるのいいよね。美術さん天才か。<span style="font-size: 14px">勝利くんが歩きながらサングラスかけ直してる手つきもいいよね</span>🕶
 
 <figure>
     <img src="/images/hawaii/downtown_ht_3.jpg" />
@@ -161,8 +160,8 @@ MVで看板が"ROCK THA TOWN"になってるのいいよね。美術さん天才
 - 0:01：新聞の中の画像
 - 0:45：5人で縦の列になって歩いている交差点
 
-あのめちゃくちゃかっこいいシーンがここです！[ビートルズのアビイロード](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%A4%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89)
-みたいな。Hawaii Theatreからすぐ。このゾーンでの一番の見どころかも🌹
+[ビートルズのアビイロード](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%A4%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89)
+みたいな、あのめちゃくちゃかっこいいシーンがここです❗Hawaii Theatreからすぐ。このゾーンでの一番の見どころかも🌹
 
 <figure>
     <img src="/images/hawaii/downtown_bs_2.jpg" />
@@ -184,7 +183,7 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
 
 ### Zone1-4：BAR35の前の道(風磨・マリ)
 
-ここから3つは続けてささっと回れます。
+ここから3つは続けてささっと回れます♪
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d388.0306320488932!2d-157.86258994347835!3d21.311370073778814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e740d0474c3%3A0xe0a2af7709b3920d!2sBar+35!5e0!3m2!1sja!2sjp!4v1514555561663" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -243,9 +242,9 @@ Brown Shoe Repairを目印に交差点を見つけて、そのお店を背にヌ
     </figcaption>
 </figure>
 
-このゾーンのセクシーポイントは以上です。繰り返しますが、夜はあまり治安がよくない場所なので、良い子のセクガルさんたちは日中に行くように！
+このゾーンのセクシーポイントは以上です。繰り返しますが、**夜はあまり治安がよくない場所なので、良い子のセクガルさんたちは日中に行くように！**
 
-朝から行ってお昼を近くの丸亀製麺ダウンタウンホノルル店で食べるのがよいかも🍲午後はZone2カカアコへ〜♪
+朝から行ってお昼を近くの<span class="color-green-500">丸亀製麺ダウンタウンホノルル店</span>で食べるのがよいかも🍲午後はZone2カカアコへ〜♪
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3358.352175732736!2d-157.86311311932522!3d21.309474772352875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1efe275b56b64276!2z5Li45LqA6KO96bq6IOODgOOCpuODs-OCv-OCpuODs-ODm-ODjuODq-ODq-W6lw!5e0!3m2!1sja!2sjp!4v1514557459166" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
