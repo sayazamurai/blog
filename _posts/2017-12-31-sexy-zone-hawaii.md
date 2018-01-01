@@ -758,16 +758,16 @@ Rock Tha Town 初回限定盤A(DVD付)、**今なら[ここ](https://www.amazon.
 
 **<span class="color-indigo-500">「Se<span class="color-red-600">xy</span>をちょっと見てみたくなったけど、DVDとか買うのお金かかるよね。あきらめ〜😯」</span>**というそこのあなた。**ラッキーです。**
 
-つい先日、**マリウス&**(ライブシーンでは)**Se<span class="color-red-600">xy</span> Zoneのメンバー全員が登場している『フラーハウス』シーズン3【パート2】がNetflixで全世界に公開されました。**
+つい先日、**マリウス&**(ライブシーンでは)**Se<span class="color-red-600">xy</span> Zoneのメンバー全員が登場している大人気海外ドラマ『フラーハウス』シーズン3【パート2】がNetflixで全世界に公開されました。**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/idsn1to8vR0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-なんと、**登録初月無料！！！**
+なんと、**登録初月無料！！！**今すぐ登録、試聴は[こちら](https://www.netflix.com/jp/)より♪（Se<span class="color-red-600">xy</span> Zoneが世界に見つかってしまう前に、今すぐのキャッチアップを強くおすすめ致します🌹）
 
 Se<span class="color-red-600">xy</span> Zoneの記念すべき5回目の紅白歌合戦出場を祝して、本日2017年大晦日、この記事を公開しました。2018年がSe<span class="color-red-600">xy</span> Zone、そしてすべてのセクガル・セクボにとって輝かしい年となりますように。というかそうなることはすでに決まっている。
 
 そして最後に、**すべてのロケ地の検証と特定に、偉大なる知恵と労力を惜しみなく提供してくれた特定班様に最大限の愛と感謝を込めて・・・**
-<span style="font-size: 32px"><span class="color-red-600">**S・T・Y！！！！！！！❤️**</span></span>
+<span style="font-size: 32px"><span class="color-red-600">**S・T・Y！！！！！！！🌹❤️**</span></span>
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ジャニヲタ歴20年ぼっちセクガルがゆく！ハワイセクシーロードの旅〜Sexy Zone「Rock Tha Town」6つのロケ地巡り全記録〜” | Saya’s Blog <a href="https://t.co/LWco5x7LIj">https://t.co/LWco5x7LIj</a> <a href="https://twitter.com/sayajewels?ref_src=twsrc%5Etfw">@sayajewels</a>さんから</p>&mdash; Saya (@sayajewels) <a href="https://twitter.com/sayajewels/status/947290156146483200?ref_src=twsrc%5Etfw">2017年12月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
