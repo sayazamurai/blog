@@ -756,7 +756,7 @@ Se<span class="color-red-600">xy</span> Zoneのニューアルバム**"XYZ=repai
 
 Rock Tha Town 初回限定盤A(DVD付)、**今なら[ここ](https://www.amazon.co.jp/ROCK-THA-TOWN-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%9B%A4A-DVD%E4%BB%98/dp/B06VV8PXTR)にあります。**
 
-**<span class="color-indigo-500">「Se<span class="color-red-600">xy</span>をちょっと見てみたくなったけど、DVDとか買うのお金かかるよね。あきらめ〜😯」</span>**というそこのあなた。**ラッキーです。**
+**<span class="color-indigo-500">「Se<span class="color-red-600">xy</span> Zoneをちょっと見てみたくなったけど、DVDとか買うのお金かかるよね。あきらめ〜😯」</span>**というそこのあなた。**ラッキーです。**
 
 つい先日、**マリウス&**(ライブシーンでは)**Se<span class="color-red-600">xy</span> Zoneのメンバー全員が登場している大人気海外ドラマ『フラーハウス』シーズン3【パート2】がNetflixで全世界に公開されました。**
 
