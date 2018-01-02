@@ -760,7 +760,9 @@ Rock Tha Town 初回限定盤A(DVD付)、**今なら[ここ](https://www.amazon.
 
 つい先日、**マリウス&**(ライブシーンでは)**Se<span class="color-red-600">xy</span> Zoneのメンバー全員が登場している大人気海外ドラマ『フラーハウス』シーズン3【パート2】がNetflixで全世界に公開されました。**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/idsn1to8vR0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<p class="aspect-ratio aspect-ratio--4x3">
+<iframe class="aspect-ratio--object" src="https://www.youtube.com/embed/idsn1to8vR0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" width="560" height="315" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
 
 なんと、**登録初月無料！！！**今すぐ登録、試聴は[こちら](https://www.netflix.com/jp/)より♪（Se<span class="color-red-600">xy</span> Zoneが世界に見つかってしまう前に、今すぐのキャッチアップを強くおすすめ致します🌹）
 
