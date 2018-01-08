@@ -1,6 +1,14 @@
 ---
 title: "オプラ・ウィンフリーのゴールデン・グローブ賞特別賞スピーチ和訳。「真実を語ることは、私たち誰もがとることのできる、最もパワフルな手段である」"
+image: /images/oprah.jpg
 ---
+
+<figure>
+    <img src="/images/oprah.jpg" />
+    <figcaption>
+      写真提供: Alan Light (<a href="http://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>・<a href="https://commons.wikimedia.org/w/index.php?curid=22858461">リンク</a>)
+    </figcaption>
+</figure>
 
 オプラ・ウィンフリーさんが先日、黒人女性として初のゴールデン・グローブ賞特別賞を受賞し、その時の彼女のスピーチが世界中で話題になっています。彼女のスピーチを私なりに和訳してツイッターで発信したところ、大きな反響がありました。他のサイトにも全訳がありますが、なかには「これはオプラさんの意図と反するのでは」と思われる和訳もあったので、拙訳ですがシェアさせてください。
 
