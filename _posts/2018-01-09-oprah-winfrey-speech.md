@@ -68,6 +68,8 @@ image: /images/oprah-edited.jpg
 
 ### モーメント
 
+まとめてくださりありがとうございます！
+
 <blockquote class="twitter-tweet" data-lang="en" data-conversation="none"><p lang="ja" dir="ltr">⚡️ “2018.1.8 <a href="https://twitter.com/Oprah?ref_src=twsrc%5Etfw">@Oprah</a> の 歴史的な <a href="https://twitter.com/hashtag/TIMESUP?src=hash&amp;ref_src=twsrc%5Etfw">#TIMESUP</a> ゴールデングローブ特別功労賞受賞スピーチ via <a href="https://twitter.com/sayajewels?ref_src=twsrc%5Etfw">@sayajewels</a> さん” by <a href="https://twitter.com/tkatsumi06j?ref_src=twsrc%5Etfw">@tkatsumi06j</a> 歴史的な受賞演説をいち早く届けてくださった <a href="https://twitter.com/sayajewels?ref_src=twsrc%5Etfw">@sayajewels</a>さんの <a href="https://twitter.com/hashtag/MeToo?src=hash&amp;ref_src=twsrc%5Etfw">#MeToo</a> アクションにリスペクトと感謝！Thank you! ✌🏼<a href="https://t.co/eAuUgpZLcM">https://t.co/eAuUgpZLcM</a></p>&mdash; T.Katsumi🎸 (@tkatsumi06j) <a href="https://twitter.com/tkatsumi06j/status/950399162901655553?ref_src=twsrc%5Etfw">January 8, 2018</a></blockquote>
 
 ### Facebook
