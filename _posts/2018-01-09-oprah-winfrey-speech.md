@@ -1,10 +1,10 @@
 ---
 title: "オプラ・ウィンフリーのゴールデン・グローブ賞特別賞スピーチ和訳。「真実を語ることは、私たち誰もがとることのできる、最もパワフルな手段である」"
-image: /images/oprah.jpg
+image: /images/oprah-edited.jpg
 ---
 
 <figure>
-    <img src="/images/oprah.jpg" />
+    <img src="/images/oprah-edited.jpg" />
     <figcaption>
       写真提供: Alan Light (<a href="http://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>・<a href="https://commons.wikimedia.org/w/index.php?curid=22858461">リンク</a>)
     </figcaption>
