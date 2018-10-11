@@ -333,7 +333,7 @@ Mini of Hawaiiの裏の駐車場の壁。Office Maxを右手に、アウアヒ�
     </figcaption>
 </figure>
 
-### Zone2-3：ABC Stoere Corporate Officeの向かい（マリ&健人くんバック）
+### Zone2-3：ABC Store Corporate Officeの向かい（マリ&健人くんバック）
 
 <p class="aspect-ratio aspect-ratio--4x3">
 <iframe class="aspect-ratio--object" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1318.743658229246!2d-157.85857720817543!3d21.29770243854509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c006e083482da4f%3A0x4a4976df67f1bf8c!2zQUJDIOOCueODiOOCog!5e0!3m2!1sja!2sjp!4v1514594338141" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
